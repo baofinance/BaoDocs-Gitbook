@@ -7,19 +7,19 @@ description: 包子金钱
 #### BAO stands for "Balancing, Automation and Options"
 
 {% hint style="info" %}
-Warning: Bao Finance is in alpha, and is unaudited.  Please understand the risks and use this product accordingly.
+Warning: Bao Finance is in alpha, and is unaudited. Please understand the risks and use this product accordingly.
 {% endhint %}
 
 ## **The Bao Vision of Finance**
 
 Traditional finance does not work. Not for most people. It works for wealthy suits. It is great for them. They own the data. They own the marketplace. And if things do not go their way they change the rules of the game.\
 \
-Many people think the answer to fixing this system is simple. Just put it all on DeFi. But in reality that does not work by itself. The projects that have been successful in DeFi are the ones that do things that did not exist in old finance. Compound, Uniswap, Balancer are good examples. They all do things in a new way.&#x20;
+Many people think the answer to fixing this system is simple. Just put it all on DeFi. But in reality that does not work by itself. The projects that have been successful in DeFi are the ones that do things that did not exist in old finance. Compound, Uniswap, Balancer are good examples. They all do things in a new way.
 
-**Why does this happen?** \
+**Why does this happen?**\
 It all comes to data. Most people are not aware that financial data is what makes institutions so powerful and why you can’t do what they do. This is why synthetics will matter.
 
-**But why does that matter?** \
+**But why does that matter?**\
 If you can get liquidity in any discrete quantifiable event then what have you created? The world’s most accurate financial data system.
 
 Financial data is used within insurance, lending, hedge funds, risk mitigation, banking, yield, mortgages, credit scores, etc.
@@ -42,9 +42,8 @@ These bao buns are the tradition of taking something good that already exists an
 
 Bao Finance aims to do this by being a new protocol that adds features to existing DeFi systems.
 
-Bao Finance's goals for 2022:
+Bao Finance's goals for 2022 :
 
 ![](<.gitbook/assets/image (85).png>)
 
-****
-
+***
