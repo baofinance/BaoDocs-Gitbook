@@ -42,7 +42,7 @@ These bao buns are the tradition of taking something good that already exists an
 
 Bao Finance aims to do this by being a new protocol that adds features to existing DeFi systems.
 
-Bao Finance's goals for 2022 :
+Bao Finance's goals for 2022:
 
 ![](<.gitbook/assets/image (85).png>)
 
