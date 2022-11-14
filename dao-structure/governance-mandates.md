@@ -6,7 +6,7 @@ A number of processes and structures have been approved by the community to allo
 
 Decisions that are not put to a public DAO vote, such as treasury breakdowns, or anything that needs sign-off from each of the Galaxies for approval shall use the Council of Guardians as a proxy.\
 \
-A governance forum has been created for the community in order to submit ideas and comments for the different proposals. You can find it here: [https://gov.bao.finance/](https://gov.bao.finance/) and a guide for submitting and managing a BIP [here](guides/turning-ideas-into-proposals.md)
+A governance forum has been created for the community in order to submit ideas and comments for the different proposals. You can find it here: [https://gov.bao.finance/](https://gov.bao.finance/) and a guide for submitting and managing a BIP [here](../guides/turning-ideas-into-proposals.md)
 
 ## Frameworks
 
@@ -73,7 +73,7 @@ Any Galaxy may be shut down, or its members recalled and payment immediately end
 ### BIP (BAO Improvement Proposal) Process
 
 {% hint style="info" %}
-You can find a detailed guide for creating a BIP [**here**](guides/turning-ideas-into-proposals.md)****
+You can find a detailed guide for creating a BIP [**here**](../guides/turning-ideas-into-proposals.md)\*\*\*\*
 {% endhint %}
 
 * There is no minimum number of BAO required to follow the steps to add a proposal
@@ -112,7 +112,7 @@ multisig must create votes when:
 * If they wish to change the cap of the Bao token, or the distribution rates.
 * If they wish to change the rewards of different pools, or to add and remove new pools.
 * In order to activate new features.
-* To change the rules of governance, or approval percentage.&#x20;
+* To change the rules of governance, or approval percentage.
 
 other matters do not need to have a community vote
 
@@ -121,6 +121,3 @@ other matters do not need to have a community vote
 The community may create votes on any matter and they will be considered binding so long as the quorums are met.
 
 This includes the removal and replacement of the team, changes to the ecosystem, changes to rewards percentages, or distribution of the treasury.
-
-
-
