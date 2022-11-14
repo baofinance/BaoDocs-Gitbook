@@ -4,6 +4,7 @@
   * [Synthetics](readme/synthetic-assets.md)
 * [Distribution/Tokenomics](distribution-tokenomics/README.md)
   * [Distribution and Emissions](distribution-tokenomics/distribution-and-emissions.md)
+  * [Locked Token Distribution](distribution-tokenomics/locked-token-distribution.md)
 * [DAO structure](dao-structure.md)
 * [Governance](governance-mandates.md)
 * [Treasury](treasury.md)

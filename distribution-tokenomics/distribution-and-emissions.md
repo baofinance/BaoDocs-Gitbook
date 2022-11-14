@@ -8,7 +8,7 @@ During these two years, around 1.09 Trillion bao were distributed. 95% of reward
 \
 The locked portion of tokens will be distributed in Phase 2.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ## Phase #2 - BAOv2 and veBAO (November 25, 2022, onwards)
 
