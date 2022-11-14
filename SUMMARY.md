@@ -9,7 +9,7 @@
   * [Governance](dao-structure/governance-mandates.md)
   * [Treasury](dao-structure/treasury.md)
 * [Contract Changes](contract-changes.md)
-* [Risks of Bao / Reasons Not to Use Bao](risks-of-bao-reasons-not-to-use-bao.md)
+* [Risks for users](risks-of-bao-reasons-not-to-use-bao.md)
 * [Benefits of BAO](benefits-of-bao-reasons-to-use-bao.md)
 * [Fees, Penalties & Funds](fees-penalties-and-funds.md)
 * [Contracts and Key Info](contracts-and-key-info/README.md)
