@@ -10,7 +10,7 @@ The protocol will collect all the slashed balances from users ending their distr
 
 **Distribution Function**
 
-\-X in this piecewise function below is the number of days (the end being the 1095th day, AKA 3 years)\
+X in this piecewise function below is the number of days (the end being the 1095th day, AKA 3 years)\
 ![](broken-reference)
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>A graph showing how BAO will unlock over time</p></figcaption></figure>
