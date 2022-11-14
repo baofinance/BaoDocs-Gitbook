@@ -19,11 +19,11 @@ BAOcx is a coupon on xDai redeemable for BAO, backed 1:1 by the treasury
 {% endhint %}
 
 {% hint style="warning" %}
-If you hold BAO on another network you must first bridge it back to ETH main net then to xDai and swap it for BAOcx on **** [**BaoSwap**](https://www.baoswap.com/#/swap)**.**[\
-](https://app.gitbook.com/@bao-1/s/bao-finance/\~/diff/drafts/-MbRZQZ1Vwd21H0XGg-h/guides/staking-on-xdai/add-liquidity-to-baoswap/@drafts)
+If you hold BAO on another network you must first bridge it back to ETH main net then to xDai and swap it for BAOcx on \*\*\*\* [**BaoSwap**](https://www.baoswap.com/#/swap)**.**[\
+](https://app.gitbook.com/o/-MTJ4xDKLK--xZtjL1Xt/s/-MKeUUjtIbB51HOE3x7I/)
 {% endhint %}
 
-* Navigate to [**https://xdai.bao.finance/staking**](https://xdai.bao.finance/staking)****
+* Navigate to [**https://xdai.bao.finance/staking**](https://xdai.bao.finance/staking)\*\*\*\*
 * Ensure you are connected to the xDai network and connect your wallet
 * You should see your available BAOcx balance displayed. Click convert to tBAO
 

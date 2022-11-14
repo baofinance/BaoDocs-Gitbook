@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Bao Finance](README.md)
+  * [Synthetics](readme/synthetic-assets.md)
 * [Distribution/Tokenomics](distribution-tokenomics.md)
-* [Synthetics](synthetic-assets.md)
 * [DAO structure](dao-structure.md)
 * [Governance](governance-mandates.md)
 * [Treasury](treasury.md)
@@ -31,7 +31,7 @@
 * [Polly Finance Franchise](franchises/polly/README.md)
   * [Nests](franchises/polly/nests/README.md)
     * [DeFi Nest (nDEFI)](franchises/polly/nests/defi-nest-ndefi.md)
-    * [Stables  Nest (nSTBL)](franchises/polly/nests/stables-nest-nstbl.md)
+    * [Stables Nest (nSTBL)](franchises/polly/nests/stables-nest-nstbl.md)
   * [The Polly Token](franchises/polly/the-polly-token.md)
   * [Fees](franchises/polly/fees.md)
   * [Distribution/ Tokenomics](franchises/polly/distribution-tokenomics.md)
