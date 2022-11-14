@@ -19,7 +19,7 @@ Bao holders will be able to stake and lock their Bao tokens for up to 4 years an
 veBAO tokens do not trade on liquid markets, nor are they transferable. Instead, they function like an account-based point system that denotes the duration of the tokens' lockdown in the protocol.\
 
 
-<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption><p>When you lock 1 BAO token for 4 years you receive 1 veBAO in return</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>When you lock 1 BAO token for 4 years you receive 1 veBAO in return</p></figcaption></figure>
 
 Your veBAO balance will dictate your share of
 

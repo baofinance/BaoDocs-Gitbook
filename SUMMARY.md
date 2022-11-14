@@ -2,7 +2,8 @@
 
 * [Bao Finance](README.md)
   * [Synthetics](readme/synthetic-assets.md)
-* [Distribution/Tokenomics](distribution-tokenomics.md)
+* [Distribution/Tokenomics](distribution-tokenomics/README.md)
+  * [Distribution and Emissions](distribution-tokenomics/distribution-and-emissions.md)
 * [DAO structure](dao-structure.md)
 * [Governance](governance-mandates.md)
 * [Treasury](treasury.md)
