@@ -1,27 +1,19 @@
 # Fees, Penalties & Funds
 
-{% hint style="warning" %}
-The penalty fee timer starts on your first deposit in a pool and resets when you unstake any amount of LP tokens from the pool.
-{% endhint %}
+## Bao Markets
 
-All fees go into the treasury that backs BAO. The treasury funds are owned by the users who vote on their allocation and use, which can include the buying and burning of BAO.\
-\
-These fees only apply to LP assets and not to the harvesting of the BAO token.
+### Interest Rates
 
-{% hint style="warning" %}
-For Panda fees, please head to [Panda franchise section](https://docs.bao.finance/franchises/panda/pandaswap-fees-penalties) as the below fees are related to BAO only
-{% endhint %}
+You pay interest on any synthetic tokens that you mint. The APR is the annualized rate at which your debt will grow. Interest rates are dynamic and change according to market conditions.&#x20;
 
-| Timespan                      | Fees/Penalty | <p>Penalty expiration after first deposit <br>/ last withdraw based on block</p> |
-| ----------------------------- | ------------ | -------------------------------------------------------------------------------- |
-| Deposit                       | 0.75%        |                                                                                  |
-| Direct withdraw in same block | 25%          |                                                                                  |
-| Within 1 hour                 | 8%           | 274                                                                              |
-| Within 1 day                  | 4%           | 6600                                                                             |
-| 1-3 days                      | 2%           | 19800                                                                            |
-| 3-5 days                      | 1%           | 33000                                                                            |
-| 5-14 days                     | 0.5%         | 90720                                                                            |
-| 14-28 days                    | 0.25%        | 181440                                                                           |
-| After 28 days                 | 0.1%         |                                                                                  |
+<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption><p> a 1.2% interest rate to borrow/mint baoUSD</p></figcaption></figure>
 
-The fees are designed to be reasonable for users who want to temporarily yield farm, but penalize users who move out of the system rapidly.
+### Liquidation Penalties
+
+The liquidation penalty for all collaterals is 10%, or which 2.8% goes to the insurance fund and 7.2% goes to the liquidator.
+
+If your health factor drops below 1, your collateral will be flagged for liquidation. This means anyone can repay your loan and collateral 1.1x the value of the repayment will be seized.
+
+## Bao Baskets
+
+Our bSTBL basket has **no fees** to make its use as collateral more attractive.

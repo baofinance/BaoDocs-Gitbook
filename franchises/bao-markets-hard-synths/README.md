@@ -1,18 +1,18 @@
 # Bao Markets (hard synths)
 
-Bao starts its journey towards an open and accurate financial marketplace with BAO Markets, our minimum viable synth product.&#x20;
+Bao starts its journey towards an open and accurate financial marketplace with BAO Markets, our minimum viable synth product.
 
 Bao Markets allows you to use different collateral types to mint synthetic tokens, starting with Bao USD.
 
-They **** are built upon the [Compound ](https://compound.finance/)protocol and therefore share many similar functions and components.&#x20;
+They are built upon the [Compound ](https://compound.finance/)protocol and therefore share many similar functions and components.
 
-If you are not familiar with the Compound protocol, we recommend reading through their [documentation](https://compound.finance/docs) which is extensive and well structured.     &#x20;
+If you are not familiar with the Compound protocol, we recommend reading through their [documentation](https://compound.finance/docs) which is extensive and well structured.
 
-[Inverse Finance](https://www.inverse.finance/) expanded this protocol by introducing the **Fed** as an additional actor. The **Fed** is a smart contract (controlled by a multisig) that is able to mint ERC20 tokens and deposit them directly into the protocol. These ERC20 tokens can now be borrowed, with collateral that has been deposited into the protocol. In order to determine how many of the ERC20 tokens users can borrow, a price needs to be established. This is done via an **Oracle** contract that contains a mapping from the ERC20 token to a chainlink price feed. It is a smooth way to turn compound token lending system into a system for minting synthetic tokens.&#x20;
+[Inverse Finance](https://www.inverse.finance/) expanded this protocol by introducing the **Fed** as an additional actor. The **Fed** is a smart contract (controlled by a multisig) that is able to mint ERC20 tokens and deposit them directly into the protocol. These ERC20 tokens can now be borrowed, with collateral that has been deposited into the protocol. In order to determine how many of the ERC20 tokens users can borrow, a price needs to be established. This is done via an **Oracle** contract that contains a mapping from the ERC20 token to a chainlink price feed. It is a smooth way to turn compound token lending system into a system for minting synthetic tokens.
 
 ## Bao USD
 
-baoUSD allows any user access to a dollar-pegged token and to be their own bank. You can take out or repay loans in seconds, without any approvals or credit checks.&#x20;
+baoUSD allows any user access to a dollar-pegged token and to be their own bank. You can take out or repay loans in seconds, without any approvals or credit checks.
 
 baoUSD is backed by locked collateral tokens and there are multiple mechanisms helping it keep its peg. Its supply is controlled by "the fed".
 
@@ -22,7 +22,7 @@ Below we will explore the various pegging mechanisms, which all work together to
 
 Ballast allows users to mint baoUSD with DAI or redeem deposited DAI with baoUSD. The mint and redeem fee is set to 1%, which means the price of baoUSD should fluctuate between $0.99 and $1.01. Any time the price is above or below this price represents an opportunity for low-risk arbitrage between the ballast and the market selling outside of these prices.
 
-This allows users to repay their loans at close to $1 even if the price of baoUSD deviates from the peg on exchanges.&#x20;
+This allows users to repay their loans at close to $1 even if the price of baoUSD deviates from the peg on exchanges.
 
 ### Loan Arbitrage
 
@@ -30,37 +30,37 @@ When the price of baoUSD is >$1 there will be an incentive to take out a new loa
 
 ### Supply
 
-The supply of baoUSD can be contracted or expanded which will in turn increase or decrease the interest rates for borrowing or lending Bao USD&#x20;
+The supply of baoUSD can be contracted or expanded which will in turn increase or decrease the interest rates for borrowing or lending Bao USD
 
-If the price of baoUSD is below its peg, the supply of baoUSD can be contracted, increasing the interest rate on all loans in the system. \
+If the price of baoUSD is below its peg, the supply of baoUSD can be contracted, increasing the interest rate on all loans in the system.\
 \
 This will help to increase buy pressure as the incentive to pay back a loan is increased, or from people who want to take advantage of the inflated interest rate by buying Bao USD and lending it. The opposite can of course be done if the price is above peg.
 
 ## Liquidations
 
-Liquidations are vital for the safety of the protocol.&#x20;
+Liquidations are vital for the safety of the protocol.
 
 To ensure that no borrow position is ever under-collateralized anyone has the ability to repay another user's borrow if the borrowed value has exceeded their borrow limit.
 
-As liquidations have to be performed in a timely manner, a share of the borrower's collateral will be transferred to the user that liquidated/repaid the borrower's position.&#x20;
+As liquidations have to be performed in a timely manner, a share of the borrower's collateral will be transferred to the user that liquidated/repaid the borrower's position.
 
 The Liquidation Incentive dictates what percent of the repaid amount is seized as a reward to the liquidator.
 
-&#x20;Liquidation Incentive: 10%
+Liquidation Penalty: 10%
 
-&#x20;In order to increase the security of the protocol in this early stage, a percentage of the liquidation reward goes to the protocol reserves.&#x20;
+In order to increase the security of the protocol in this early stage, a percentage of the liquidation reward goes to the protocol reserves.
 
-Protocol Share: 2.8%&#x20;
+Protocol Share: 2.8%
 
-Real Liquidator Incentive: 7.2%
+Liquidator Incentive: 7.2%
 
 ## IMF
 
 The Initial Margin Factor (IMF) is independently set for each bdAsset and influences the ratio at which the value of borrowed assets has to be covered by collateral.
 
-As an example: We have deposited USDC as collateral into the protocol. We now want to use our USDC in order to borrow bUSD. If a collateral type has a default collateral factor of 0.9 it means that users can use 90% of deposited collateral to borrow bUSD. For most users that knowledge will be sufficient.&#x20;
+As an example: We have deposited USDC as collateral into the protocol. We now want to use our USDC in order to borrow bUSD. If a collateral type has a default collateral factor of 0.9 it means that users can use 90% of deposited collateral to borrow bUSD. For most users that knowledge will be sufficient.
 
-For users with larger deposits (we are talking of valuations +$1,000,000) a high collateral factor such as 90% poses a higher risk to the protocol. In order to prevent volatile markets or slow liquidators causing insolvency of the protocol (and the user), we decrease the relative borrowing power with an increase in collateral value.&#x20;
+For users with larger deposits (we are talking of valuations +$1,000,000) a high collateral factor such as 90% poses a higher risk to the protocol. In order to prevent volatile markets or slow liquidators causing insolvency of the protocol (and the user), we decrease the relative borrowing power with an increase in collateral value.
 
 The IMF dictates how steep the drop in borrowing power is with an increase in collateral value.
 
@@ -155,7 +155,4 @@ The implementation in the comptroller.sol contract:
 }
 ```
 
-
-
 ##
-
