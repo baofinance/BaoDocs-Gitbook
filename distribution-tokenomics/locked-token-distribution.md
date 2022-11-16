@@ -13,7 +13,7 @@ The protocol will collect all the slashed balances from users ending their distr
 X in this piecewise function below is the number of days (the end being the 1095th day, AKA 3 years)\
 ![](broken-reference)
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>A graph showing how BAO will unlock over time</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>A graph showing how BAO will unlock over time</p></figcaption></figure>
 
 The function is designed to weight distribution towards the end, so those who wait longer are rewarded more. Any function that does not have a bias to the end of the three years will incentivize holders to slash early and sell the tokens rather than continue participating in the DAO/vote escrow system.
 
