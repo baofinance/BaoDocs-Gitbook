@@ -1,4 +1,4 @@
-# Stables  Nest (nSTBL)
+# Stables Nest (nSTBL)
 
 {% hint style="info" %}
 In order to mint nSTBL, you will need to provide ETH on the Polygon chain
@@ -16,7 +16,7 @@ Tokens will be deposited in a variety of protocols to earn yield on them, swappi
 
 ## Initial Composition
 
-The nest will start with a mixture of centrally issued and decentralized stable coins because liquidity and yield options are limited for some decentralized options or they are too new to meet the criteria for inclusion.&#x20;
+The nest will start with a mixture of centrally issued and decentralized stable coins because liquidity and yield options are limited for some decentralized options or they are too new to meet the criteria for inclusion.
 
 To provide a greater yield farming return, USDC and USDT, which are centrally issued, are included.
 
@@ -29,17 +29,17 @@ The starting composition is:
 * 15% USDC
 * 15% USDT
 
-## Token Inclusion Criteria&#x20;
+## Token Inclusion Criteria
 
 For a project to be included in the Polly Stable Index, it must fit the below criteria in order to reduce the risk of the index and fit the desires of the community.
 
 Be a Stable token project available on the Ethereum blockchain or Polygon. Be in liquid markets and being used in different lending protocols The protocol must be running for 6 months before qualifying to be included in the index In the event of a safety incident, the team must have addressed the problem responsibly and promptly, providing users of the protocol a reliable solution and document a detailed, transparent breakdown of the incident. Must be sufficiently decentralized and/or collateralized
 
-## Strategy&#x20;
+## Strategy
 
-It is possible for the underlying tokens to utilize strategies that will earn yield, maximizing value for nest holders, who benefit from this productivity without having to perform any actions themselves. These strategies will be added to and changed over time to take advantage of new opportunities or to maximize the yield earned.&#x20;
+It is possible for the underlying tokens to utilize strategies that will earn yield, maximizing value for nest holders, who benefit from this productivity without having to perform any actions themselves. These strategies will be added to and changed over time to take advantage of new opportunities or to maximize the yield earned.
 
-To start with, available strategies will be&#x20;
+To start with, available strategies will be
 
 * Kashi
 * AAVE
@@ -49,17 +49,17 @@ To start with, available strategies will be&#x20;
 We are aware of the recent problems the CREAM protocol has encountered and will proceed with caution, favoring other projects for yield until we are sure the risk has been sufficiently lowered.
 {% endhint %}
 
-## Management&#x20;
+## Management
 
 The Nest is maintained quarterly in two phases.
 
 ### Determination Phase
 
-The determination phase takes place during the final 2 weeks of the quarter. During this phase the changes needed for the next reconstitution are determined. Strategies and allocation % will be revisited in order to reach the balance between decentralization and having the most optimal yet secure yield possible for those stables. Proposed changes will be published on the governance forum for 1 week then a governance vote will run for the community to approve changes.&#x20;
+The determination phase takes place during the final 2 weeks of the quarter. During this phase the changes needed for the next reconstitution are determined. Strategies and allocation % will be revisited in order to reach the balance between decentralization and having the most optimal yet secure yield possible for those stables. Proposed changes will be published on the governance forum for 1 week then a governance vote will run for the community to approve changes.
 
 ### Reconstitution Phase
 
-In the two weeks following a successful vote, the index components will be adjusted as per the instructions published during the final 2 weeks of the quarter.&#x20;
+In the two weeks following a successful vote, the index components will be adjusted as per the instructions published during the final 2 weeks of the quarter.
 
 ### Emergency Maintenance
 

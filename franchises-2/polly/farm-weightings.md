@@ -1,7 +1,5 @@
 # Farm Weightings
 
-
-
 | Pair          | FARM WEIGHT |
 | ------------- | ----------- |
 | YFI/ETH SLP   | 521         |

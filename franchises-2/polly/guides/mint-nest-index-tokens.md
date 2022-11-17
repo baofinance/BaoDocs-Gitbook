@@ -1,7 +1,8 @@
 # Mint Nest Tokens
 
-**This page will show you how you will be able to mint/redeem Index tokens for Polly Finance.**\
-****
+**This page will show you how you will be able to mint/redeem Index tokens for Polly Finance.**\\
+
+***
 
 1\) Go to PollyFinance.com and select the “Nests” tab. You will have a selection of Indexes to choose from, click the “select” button for the one you wish to mint.
 

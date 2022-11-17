@@ -28,11 +28,11 @@ Multisig shall create any official votes using Snapshot.
 
 ## The treasury vault
 
-| **Address**             | 0x3dFc49e5112005179Da613BdE5973229082dAc35                                                                                            |
-| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **Purpose**             | BAO Finance Treasury                                                                                                                  |
-| **Signers**             | <ul><li>Baowolf</li><li>Baoman</li><li>Chickn</li><li>Vital</li><li>Fresh Pizza</li><li>Fabiaz84</li><li>Vex</li><li>0xC0le</li></ul> |
-| **Signatures Required** | 5/8                                                                                                                                   |
+| **Address**             | 0x3dFc49e5112005179Da613BdE5973229082dAc35                                                                       |
+| ----------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| **Purpose**             | BAO Finance Treasury                                                                                             |
+| **Signers**             | <ul><li>Baowolf</li><li>Baoman</li><li>Chickn</li><li>Vital</li><li>50</li><li>Fabiaz84</li><li>Jester</li></ul> |
+| **Signatures Required** | 4/7                                                                                                              |
 
 
 
@@ -62,43 +62,43 @@ A galaxy’s monthly allocation will not be adjusted without a vote from the DAO
 
 ### Community Galaxy
 
-| **Address**             | 0xa900a8F9910E8d9bB2F5c33f5d1241Fd4EA93B0B              |
-| ----------------------- | ------------------------------------------------------- |
-| **Purpose**             | Community Galaxy Monthly Operations                     |
-| **Signers**             | <ul><li>Baowolf</li><li>Baoman</li><li>Chickn</li></ul> |
-| **Signatures Required** | 2/3                                                     |
+| **Address**             | 0xa900a8F9910E8d9bB2F5c33f5d1241Fd4EA93B0B                             |
+| ----------------------- | ---------------------------------------------------------------------- |
+| **Purpose**             | Community Galaxy Monthly Operations                                    |
+| **Signers**             | <ul><li>Baowolf</li><li>Baoman</li><li>Chickn</li><li>Jester</li></ul> |
+| **Signatures Required** | 2/4                                                                    |
 
 ### Front-End Galaxy
 
-| **Address**             | 0x9b57642c2f35F97Cb5746bDd1803ed81DB6abEF4                         |
-| ----------------------- | ------------------------------------------------------------------ |
-| **Purpose**             | Front-End Galaxy Monthly Operations                                |
-| **Signers**             | <ul><li>Baowolf</li><li>Baoman</li><li>Vital</li><li>Vex</li></ul> |
-| **Signatures Required** | 2/4                                                                |
+| **Address**             | 0x9b57642c2f35F97Cb5746bDd1803ed81DB6abEF4                            |
+| ----------------------- | --------------------------------------------------------------------- |
+| **Purpose**             | Front-End Galaxy Monthly Operations                                   |
+| **Signers**             | <ul><li>Baowolf</li><li>Baoman</li><li>Vital</li><li>Chickn</li></ul> |
+| **Signatures Required** | 2/4                                                                   |
 
 ### Smart Contract Galaxy
 
-| **Address**             | 0x7916eD491c52C4B3d4B4384d6F1209eE900b97F5                 |
-| ----------------------- | ---------------------------------------------------------- |
-| **Purpose**             | Smart Contract Galaxy Monthly Operations                   |
-| **Signers**             | <ul><li>Fresh Pizza</li><li>Fabiaz84</li><li>Vex</li></ul> |
-| **Signatures Required** | 2/3                                                        |
+| **Address**             | 0x7916eD491c52C4B3d4B4384d6F1209eE900b97F5                                          |
+| ----------------------- | ----------------------------------------------------------------------------------- |
+| **Purpose**             | Smart Contract Galaxy Monthly Operations                                            |
+| **Signers**             | <ul><li>Baowolf</li><li>Fabiaz84</li><li>Chickn</li><li>Nox</li><li>Vital</li></ul> |
+| **Signatures Required** | 3/5                                                                                 |
 
 ### Treasury Galaxy
 
-| **Address**             | 0xe827CA56d116375a0610d45458BE756E52B9C0D4              |
-| ----------------------- | ------------------------------------------------------- |
-| **Purpose**             | Treasury Galaxy Monthly Operations                      |
-| **Signers**             | <ul><li>Baowolf</li><li>Chickn</li><li>Baoman</li></ul> |
-| **Signatures Required** | 2/3                                                     |
+| **Address**             | 0xe827CA56d116375a0610d45458BE756E52B9C0D4          |
+| ----------------------- | --------------------------------------------------- |
+| **Purpose**             | Treasury Galaxy Monthly Operations                  |
+| **Signers**             | <ul><li>Baowolf</li><li>Chickn</li><li>50</li></ul> |
+| **Signatures Required** | 2/3                                                 |
 
 ### QA Galaxy
 
-| **Address**             | 0x9218182671776924dA5BF56f69B7272f47A5fB6B                                    |
-| ----------------------- | ----------------------------------------------------------------------------- |
-| **Purpose**             | QA Galaxy Monthly Operations                                                  |
-| **Signers**             | <ul><li>Fresh Pizza</li><li>Fabiaz84</li><li>Baowolf</li><li>Baoman</li></ul> |
-| **Signatures Required** | 2/4                                                                           |
+| **Address**             | 0x9218182671776924dA5BF56f69B7272f47A5fB6B                           |
+| ----------------------- | -------------------------------------------------------------------- |
+| **Purpose**             | QA Galaxy Monthly Operations                                         |
+| **Signers**             | <ul><li>50</li><li>Fabiaz84</li><li>Baowolf</li><li>Baoman</li></ul> |
+| **Signatures Required** | 2/4                                                                  |
 
 ### Creative Content Galaxy
 
@@ -110,9 +110,9 @@ A galaxy’s monthly allocation will not be adjusted without a vote from the DAO
 
 ### Governance Galaxy
 
-| **Address**             | 0x2d8Af71E75FdBA501e8aaF51C79c498165c49139                |
-| ----------------------- | --------------------------------------------------------- |
-| **Purpose**             | Governance Galaxy Monthly Operations                      |
-| **Signers**             | <ul><li>Baowolf</li><li>Fabiaz84</li><li>Chickn</li></ul> |
-| **Signatures Required** | 2/3                                                       |
+| **Address**             | 0x2d8Af71E75FdBA501e8aaF51C79c498165c49139                                          |
+| ----------------------- | ----------------------------------------------------------------------------------- |
+| **Purpose**             | Governance Galaxy Monthly Operations                                                |
+| **Signers**             | <ul><li>Baowolf</li><li>Fabiaz84</li><li>Chickn</li><li>50</li><li>Jester</li></ul> |
+| **Signatures Required** | 3/5                                                                                 |
 

@@ -1,6 +1,6 @@
 # Nests
 
-Nests are a single token that represents ownership of a basket of underlying tokens. The underlying assets are managed by a vault, which can put them to work yield farming in various protocols.&#x20;
+Nests are a single token that represents ownership of a basket of underlying tokens. The underlying assets are managed by a vault, which can put them to work yield farming in various protocols.
 
 ## Issue or Swap?
 
@@ -17,7 +17,7 @@ Depending on the market conditions, it is sometimes better to issue nDEFI and ot
 
 ### Issue
 
-If you have ETH in your wallet on the polygon network, you can use it to mint new nest tokens. When minting new nests the ETH is used to buy the underlying assets, which are deposited in yield farms then the yield-bearing tokens from those farms are deposited into a vault. A small [**entrance fee**](../fees.md) **** is also taken from the ETH to buy Polly and send it to the burn address.&#x20;
+If you have ETH in your wallet on the polygon network, you can use it to mint new nest tokens. When minting new nests the ETH is used to buy the underlying assets, which are deposited in yield farms then the yield-bearing tokens from those farms are deposited into a vault. A small [**entrance fee**](../fees.md) \*\*\*\* is also taken from the ETH to buy Polly and send it to the burn address.
 
 The issue command asks for more ETH than is needed to buy the required Polly and underlying tokens to allow for price slippage then any unused ETH is returned to your wallet.\
 \
@@ -31,13 +31,12 @@ When you redeem, the share of underlying tokens represented by the nest you are 
 
 ### Price
 
-Nest prices are fundamentally linked to the price of the underlying tokens and the yield gained on them from yield farming. Any time the price diverges in the SushiSwap pool from that of the combined price of the underlying tokens it creates an arbitrage opportunity.&#x20;
+Nest prices are fundamentally linked to the price of the underlying tokens and the yield gained on them from yield farming. Any time the price diverges in the SushiSwap pool from that of the combined price of the underlying tokens it creates an arbitrage opportunity.
 
-When the nest price is above the underlying assets, you can issue more of the nest (which buys the underlying assets) and then sell the nest tokens for a profit.&#x20;
+When the nest price is above the underlying assets, you can issue more of the nest (which buys the underlying assets) and then sell the nest tokens for a profit.
 
 When the nest price is below that of the underlying tokens, you can buy nest tokens from SushiSwap and redeem them for the underlying assets then sell them for a profit.
 
 ### Yield Farming and reflexive fees
 
 Over time each nest token will be worth more and more underlying tokens as they are deposited into yield farms and compounded. Also, every time someone redeems nest tokens part of the [**exit fee**](../fees.md) is used to reward current holders of the nest, by giving the wallet redeeming slightly less of the underlying tokens. This means that each nest token now represents slightly more of each underlying token.
-

@@ -9,7 +9,7 @@
 
 **BambooMaker staking program**: 0xe1a2CD535C4e7d9C2C187e529f9f491cceA41e07
 
-**RHINO staking contract:** 0x745c8E1c0315162C33408454b48E53C9F178eB68&#x20;
+**RHINO staking contract:** 0x745c8E1c0315162C33408454b48E53C9F178eB68
 
 **Factory** : 0x9Ad32bf5DaFe152Cbe027398219611DB4E8753B3
 
@@ -17,7 +17,7 @@
 
 **PandaSwap Router** : 0x29D1Adbb65d93a5710cafe2EF0E8131f64E6AB22
 
-**Oracle**:&#x20;
+**Oracle**:
 
 **Startblock**: [https://bscscan.com/block/countdown/6906900](https://bscscan.com/block/countdown/6906900)
 
@@ -109,11 +109,7 @@ The standard base weight is 1000. Projects were scored higher or lower than that
 | UBXT             | 0xbbeb90cfb6fafa1f69aa130b7341089abeef5811 | 18       | [link](https://bscscan.com/token/0xbbeb90cfb6fafa1f69aa130b7341089abeef5811) |
 | BUNNY            | 0xc9849e6fdb743d08faee3e34dd2d1bc69ea11a51 | 18       | [link](https://bscscan.com/token/0xc9849e6fdb743d08faee3e34dd2d1bc69ea11a51) |
 
-
-
-
-PandaSwap LP
-------------
+## PandaSwap LP
 
 | Name                      | Symbol     | PID | Weight | Type      | LP token address                           | Bscscan link                                                                   |
 | ------------------------- | ---------- | --- | ------ | --------- | ------------------------------------------ | ------------------------------------------------------------------------------ |
@@ -195,12 +191,6 @@ The standard base weight is 1000. Projects were scored higher or lower than that
 | UpBots Bento Box          | UBXT-BNB   | 75  | 2000   | PandaSwap | 0xD661f50A548D90746644179401C2D2043D55728D | [link](https://bscscan.com/address/0xD661f50A548D90746644179401C2D2043D55728D) |
 | Bamboo Shake              | BAMBOO-BNB | 91  | 35000  | PandaSwap | 0xa300526D664a0227c2fdFC0b423750E371Ab2ebD | [link](https://bscscan.com/address/0xa300526D664a0227c2fdFC0b423750E371Ab2ebD) |
 | Rhino Remoulade           | RHINO/BNB  | 92  | 75000  | PandaSwap | 0x999fd87aA406adB81809bab15681f655d8a049FF | [link](https://bscscan.com/address/0x999fd87aA406adB81809bab15681f655d8a049FF) |
-
-
-
-
-
-
 
 ## PancakeSwap LP
 

@@ -24,9 +24,6 @@ Unlike Bao, PNDA would have a different rate distribution curve. It will have th
 
 ![](<../../../.gitbook/assets/image (22).png>)
 
-
-
 {% hint style="info" %}
-****[**Distribution Schedule Table**](pnda-distribution-table.md)****
+[**Distribution Schedule Table**](pnda-distribution-table.md)
 {% endhint %}
-

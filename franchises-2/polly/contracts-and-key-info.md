@@ -45,7 +45,7 @@
 \
 **Recipe**: 0x2E62EE5005c4069e82d37479f42D1a7Aa2C1B8ba\
 \
-**Polly nDefi Nest (nDEFI)**: 0xd3f07EA86DDf7BAebEfd49731D7Bbd207FedC53B&#x20;
+**Polly nDefi Nest (nDEFI)**: 0xd3f07EA86DDf7BAebEfd49731D7Bbd207FedC53B
 
 **LendingManager**: 0x3f323a6E3Bddff52529fA9ac94CFCc6E755A0242
 {% endhint %}

@@ -30,7 +30,6 @@ This means we expect PNDA, Pandaswap, Panda Farms, and any sub-projects or featu
 While we’ll still have a governance process for Panda, we’ll also make an accelerated proposal model for proposals to be deployed more quickly into the Panda ecosystem and give elected community representatives (currently called “Core team and external teams”) a bit more room to make quick changes and deploys in this ecosystem compared to Bao.
 
 On Bao’s ecosystem, we have been one of the projects that move slowly with caution and security. Our community thinks that is important, especially in a decentralized project run by anonymous team members. We’ll continue to have this practice of best in class security and planning on Bao, while letting Panda be like our crazy cousin off to explore the wild west.\
-\
-
+\\
 
 ![](https://miro.medium.com/max/2436/1\*N7uD7XbIbZLnC-\_VC5-8wg.jpeg)

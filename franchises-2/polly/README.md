@@ -11,4 +11,3 @@ We plan to do this by curating ideas from the community to begin with, helping t
 Baskets are just one of the products we have planned and fall under the soft synthetics category - a token that represents a basket of underlying tokens. In the case of Polly Finance they will be branded as nests to stick with the parrot theme.
 
 ##
-
