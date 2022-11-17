@@ -44,10 +44,6 @@
   * [Redeeming a Basket](guides/bao-baskets/redeeming-a-basket.md)
 * [Claiming BAO NFT](guides/claiming-bao-nft.md)
 
-***
-
-* [franchises](franchises-1.md)
-
 ## FAQ
 
 * [BAO Related Questions](faq/bao-related-questions.md)
@@ -56,25 +52,25 @@
 
 ## Franchises
 
-* [Polly Finance Franchise](franchises-2/polly/README.md)
-  * [Guides](franchises-2/polly/guides/README.md)
-    * [Mint Nest Tokens](franchises-2/polly/guides/mint-nest-index-tokens.md)
-    * [Redeem Nest Tokens](franchises-2/polly/guides/redeem-nest-index-tokens.md)
-    * [Staking on Polly Finance](franchises-2/polly/guides/staking-on-polly-finance.md)
-  * [Nests](franchises-2/polly/nests/README.md)
-    * [DeFi Nest (nDEFI)](franchises-2/polly/nests/defi-nest-ndefi.md)
-    * [Stables Nest (nSTBL)](franchises-2/polly/nests/stables-nest-nstbl.md)
-  * [The Polly Token](franchises-2/polly/the-polly-token.md)
-  * [Fees](franchises-2/polly/fees.md)
-  * [Distribution/ Tokenomics](franchises-2/polly/distribution-tokenomics.md)
-  * [Contracts and Key Info](franchises-2/polly/contracts-and-key-info.md)
-  * [Contract changes](franchises-2/polly/contract-changes.md)
-  * [Farm Weightings](franchises-2/polly/farm-weightings.md)
-* [Panda Finance Franchise](franchises-2/panda/README.md)
-  * [Panda as Bao's Sandbox](franchises-2/panda/panda-as-baos-playground.md)
-  * [Distribution / Tokenomics](franchises-2/panda/pandaswap-distribution-tokenomics/README.md)
-    * [PNDA Distribution Table](franchises-2/panda/pandaswap-distribution-tokenomics/pnda-distribution-table.md)
-  * [Governance (coming soon)](franchises-2/panda/pandaswap-governance.md)
-  * [Treasury](franchises-2/panda/pandaswap-treasury.md)
-  * [Fees, Penalties & Funds](franchises-2/panda/pandaswap-fees-penalties.md)
-  * [Contracts and Key info](franchises-2/panda/pandaswap-contract-key.md)
+* [Polly Finance Franchise](franchises-1/polly/README.md)
+  * [Guides](franchises-1/polly/guides/README.md)
+    * [Mint Nest Tokens](franchises-1/polly/guides/mint-nest-index-tokens.md)
+    * [Redeem Nest Tokens](franchises-1/polly/guides/redeem-nest-index-tokens.md)
+    * [Staking on Polly Finance](franchises-1/polly/guides/staking-on-polly-finance.md)
+  * [Nests](franchises-1/polly/nests/README.md)
+    * [DeFi Nest (nDEFI)](franchises-1/polly/nests/defi-nest-ndefi.md)
+    * [Stables Nest (nSTBL)](franchises-1/polly/nests/stables-nest-nstbl.md)
+  * [The Polly Token](franchises-1/polly/the-polly-token.md)
+  * [Fees](franchises-1/polly/fees.md)
+  * [Distribution/ Tokenomics](franchises-1/polly/distribution-tokenomics.md)
+  * [Contracts and Key Info](franchises-1/polly/contracts-and-key-info.md)
+  * [Contract changes](franchises-1/polly/contract-changes.md)
+  * [Farm Weightings](franchises-1/polly/farm-weightings.md)
+* [Panda Finance Franchise](franchises-1/panda/README.md)
+  * [Panda as Bao's Sandbox](franchises-1/panda/panda-as-baos-playground.md)
+  * [Distribution / Tokenomics](franchises-1/panda/pandaswap-distribution-tokenomics/README.md)
+    * [PNDA Distribution Table](franchises-1/panda/pandaswap-distribution-tokenomics/pnda-distribution-table.md)
+  * [Governance (coming soon)](franchises-1/panda/pandaswap-governance.md)
+  * [Treasury](franchises-1/panda/pandaswap-treasury.md)
+  * [Fees, Penalties & Funds](franchises-1/panda/pandaswap-fees-penalties.md)
+  * [Contracts and Key info](franchises-1/panda/pandaswap-contract-key.md)
