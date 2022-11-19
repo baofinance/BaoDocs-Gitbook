@@ -43,6 +43,10 @@
 * [BAO Baskets](guides/bao-baskets/README.md)
   * [Minting a Basket](guides/bao-baskets/minting-a-basket.md)
   * [Redeeming a Basket](guides/bao-baskets/redeeming-a-basket.md)
+* [tBAO/BAOcx bridging to mainnet.](guides/tbao-baocx-bridging-to-mainnet./README.md)
+  * [Redeeming tBAO](guides/tbao-baocx-bridging-to-mainnet./redeeming-tbao.md)
+  * [Converting Bao coupons to BAO](guides/tbao-baocx-bridging-to-mainnet./converting-bao-coupons-to-bao.md)
+  * [Bridging back to Ethereum](guides/tbao-baocx-bridging-to-mainnet./bridging-back-to-ethereum.md)
 * [Claiming BAO NFT](guides/claiming-bao-nft.md)
 
 ## FAQ
