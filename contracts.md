@@ -14,4 +14,6 @@
 
 | Token Symbol | Token Contract                             | ETH LP Pair                                | ETH SLP Pair                               | USDC SLP Pair                              |
 | ------------ | ------------------------------------------ | ------------------------------------------ | ------------------------------------------ | ------------------------------------------ |
-| BAO          | 0x374cb8c27130e2c9e04f44303f3c8351b9de61c1 | 0x9973bb0fe5f8df5de730776df09e946c74254fb3 | 0x0eee7f7319013df1f24f5eaf83004fcf9cf49245 | 0x072b999fc3d82f9ea08b8adbb9d63a980ff2b14d |
+| BAO(v1)      | 0x374cb8c27130e2c9e04f44303f3c8351b9de61c1 | 0x9973bb0fe5f8df5de730776df09e946c74254fb3 | 0x0eee7f7319013df1f24f5eaf83004fcf9cf49245 | 0x072b999fc3d82f9ea08b8adbb9d63a980ff2b14d |
+| BAO(v2)      |                                            |                                            |                                            |                                            |
+

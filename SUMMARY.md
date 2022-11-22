@@ -47,6 +47,7 @@
   * [Redeeming tBAO](guides/tbao-baocx-bridging-to-mainnet./redeeming-tbao.md)
   * [Converting Bao coupons to BAO](guides/tbao-baocx-bridging-to-mainnet./converting-bao-coupons-to-bao.md)
   * [Bridging back to Ethereum](guides/tbao-baocx-bridging-to-mainnet./bridging-back-to-ethereum.md)
+* [Exchanging BAOv1 for BAOv2](guides/exchanging-baov1-for-baov2.md)
 * [Claiming BAO NFT](guides/claiming-bao-nft.md)
 
 ## FAQ
