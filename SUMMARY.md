@@ -48,6 +48,10 @@
   * [Converting Bao coupons to BAO](guides/tbao-baocx-bridging-to-mainnet./converting-bao-coupons-to-bao.md)
   * [Bridging back to Ethereum](guides/tbao-baocx-bridging-to-mainnet./bridging-back-to-ethereum.md)
 * [Exchanging BAOv1 for BAOv2](guides/exchanging-baov1-for-baov2.md)
+* [Migrating Locked BAO](guides/migrating-locked-bao/README.md)
+  * [Relocking into veBAO](guides/migrating-locked-bao/relocking-into-vebao.md)
+  * [Claiming Locked BAO](guides/migrating-locked-bao/claiming-locked-bao.md)
+  * [End your Distribution](guides/migrating-locked-bao/end-your-distribution.md)
 * [Claiming BAO NFT](guides/claiming-bao-nft.md)
 
 ## FAQ
