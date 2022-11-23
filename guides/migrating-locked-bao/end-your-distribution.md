@@ -21,4 +21,4 @@ It should bring you to a page that looks like this, make sure you read the page 
 
 Scroll down until you see a button that says "End Distribution." There, when you are ready to and know the risk and how many rewards you may lose doing so you will click it and then hit confirm in your wallet.
 
-<figure><img src="../../.gitbook/assets/e7a5ab675b1a5da302516fe64feeacaa.png" alt=""><figcaption><p>This is unreversible! Do not click this unless you know what you are doing you may lose all your rewards!</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4bf64f2c363bc05b7147d56587a36533.jpg" alt=""><figcaption><p>This is unreversible! Do not click this unless you know what you are doing you may lose all your rewards!</p></figcaption></figure>
