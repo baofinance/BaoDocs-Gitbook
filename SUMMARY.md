@@ -13,6 +13,18 @@
 * [Benefits of BAO](benefits-of-bao-reasons-to-use-bao.md)
 * [Fees, Penalties & Funds](fees-penalties-and-funds.md)
 
+## Migration
+
+* [tBAO/BAOcx bridging to mainnet](migration/tbao-baocx-bridging-to-mainnet/README.md)
+  * [Redeeming tBAO](migration/tbao-baocx-bridging-to-mainnet/redeeming-tbao.md)
+  * [Converting Bao coupons to BAO](migration/tbao-baocx-bridging-to-mainnet/converting-bao-coupons-to-bao.md)
+  * [Bridging back to Ethereum](migration/tbao-baocx-bridging-to-mainnet/bridging-back-to-ethereum.md)
+* [Exchanging BAOv1 for BAOv2](migration/exchanging-baov1-for-baov2.md)
+* [Migrating Locked BAO](migration/migrating-locked-bao/README.md)
+  * [Relocking into veBAO](migration/migrating-locked-bao/relocking-into-vebao.md)
+  * [Claiming Locked BAO](migration/migrating-locked-bao/claiming-locked-bao.md)
+  * [End your Distribution](migration/migrating-locked-bao/end-your-distribution.md)
+
 ## Products <a href="#franchises" id="franchises"></a>
 
 * [Bao Baskets (soft synths)](franchises/bao-baskets-soft-synths/README.md)
@@ -43,15 +55,6 @@
 * [BAO Baskets](guides/bao-baskets/README.md)
   * [Minting a Basket](guides/bao-baskets/minting-a-basket.md)
   * [Redeeming a Basket](guides/bao-baskets/redeeming-a-basket.md)
-* [tBAO/BAOcx bridging to mainnet](guides/tbao-baocx-bridging-to-mainnet/README.md)
-  * [Redeeming tBAO](guides/tbao-baocx-bridging-to-mainnet/redeeming-tbao.md)
-  * [Converting Bao coupons to BAO](guides/tbao-baocx-bridging-to-mainnet/converting-bao-coupons-to-bao.md)
-  * [Bridging back to Ethereum](guides/tbao-baocx-bridging-to-mainnet/bridging-back-to-ethereum.md)
-* [Exchanging BAOv1 for BAOv2](guides/exchanging-baov1-for-baov2.md)
-* [Migrating Locked BAO](guides/migrating-locked-bao/README.md)
-  * [Relocking into veBAO](guides/migrating-locked-bao/relocking-into-vebao.md)
-  * [Claiming Locked BAO](guides/migrating-locked-bao/claiming-locked-bao.md)
-  * [End your Distribution](guides/migrating-locked-bao/end-your-distribution.md)
 * [Claiming BAO NFT](guides/claiming-bao-nft.md)
 
 ## FAQ
