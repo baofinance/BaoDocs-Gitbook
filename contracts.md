@@ -20,12 +20,6 @@
 **BaseBurner:** 0x9Ec01C8315FB3062C9C790c368b0001A84E94A74
 
 **SmartWalletWhitelist:** 0x1390c3ffb3f45864641f08bcc66211935B10D753
-
-**baoUSD-3CRV Gauge address:** 0xdC5cD6bcC9AFF0Ff964D0d7A97E5A4Dc2367Bfdf&#x20;
-
-**BAOv2-ETH Gauge address:** 0x8aC752c39Ac6c9cb7DCaA6387705273DfC57410a&#x20;
-
-**bSTBL-DAI Gauge address:** 0xD525ddD05170a03772e96FFb8D8e34a0D74B8F0E
 {% endhint %}
 
 | Token Symbol | Token Contract                             |                                                                                     Pool                                                                                     |
