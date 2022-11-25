@@ -1,19 +1,36 @@
 # Contracts
 
 {% hint style="success" %}
-**Bao token**: 0x374CB8C27130E2c9E04F44303f3c8351B9De61C1
+**Baov1 token**: 0x374CB8C27130E2c9E04F44303f3c8351B9De61C1
 
-**Treasury (multisig)** : 0x3dFc49e5112005179Da613BdE5973229082dAc35
+**Treasury (multisig)**: 0x3dFc49e5112005179Da613BdE5973229082dAc35
 
-**Masterfarmer**: 0xBD530a1c060DC600b951f16dc656E4EA451d1A2D
+**VotingEscrow:** 0x8Bf70DFE40F07a5ab715F7e888478d9D3680a2B6
 
-**Endblock:** [16002086](https://etherscan.io/block/countdown/16002086)
+**BaoDistribution:** 0x885D90A424f87D362C9369C0F3d9A2d28AF495F4
 
-**Oracle**: 0xb2AaEDe065D3ede8Db0C7C25DD69B2A0d0ee4Da3
+**Swapper:** 0x235b30088E66d2D28F137b422B9349fBa51E0248
+
+**GaugeController:** 0x840e75261c2934f33C8766F6eA6235330DC1D72d
+
+**Minter:** 0x7492Aa25Dcb4013925c199Ded466Fdf9baa6A380
+
+**FeeDistributor:** 0x3dCe48CfC0bEA704ec1640b34b33eC55F97D3056
+
+**BaseBurner:** 0x9Ec01C8315FB3062C9C790c368b0001A84E94A74
+
+**SmartWalletWhitelist:** 0x1390c3ffb3f45864641f08bcc66211935B10D753
+
+**baoUSD-3CRV Gauge address:** 0xdC5cD6bcC9AFF0Ff964D0d7A97E5A4Dc2367Bfdf&#x20;
+
+**BAOv2-ETH Gauge address:** 0x8aC752c39Ac6c9cb7DCaA6387705273DfC57410a&#x20;
+
+**bSTBL-DAI Gauge address:** 0xD525ddD05170a03772e96FFb8D8e34a0D74B8F0E
 {% endhint %}
 
-| Token Symbol | Token Contract                             | ETH LP Pair                                | ETH SLP Pair                               | USDC SLP Pair                              |
-| ------------ | ------------------------------------------ | ------------------------------------------ | ------------------------------------------ | ------------------------------------------ |
-| BAO(v1)      | 0x374cb8c27130e2c9e04f44303f3c8351b9de61c1 | 0x9973bb0fe5f8df5de730776df09e946c74254fb3 | 0x0eee7f7319013df1f24f5eaf83004fcf9cf49245 | 0x072b999fc3d82f9ea08b8adbb9d63a980ff2b14d |
-| BAO(v2)      |                                            |                                            |                                            |                                            |
+| Token Symbol | Token Contract                             |                                                                                     Pool                                                                                     |
+| ------------ | ------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| baoUSD       | 0x7945b0A6674b175695e5d1D08aE1e6F13744Abb0 |                                 [https://curve.fi/#/ethereum/pools/factory-v2-84/swap](https://curve.fi/#/ethereum/pools/factory-v2-84/swap)                                 |
+| bSTBL        | 0x5ee08f40b637417bcC9d2C51B62F4820ec9cF5D8 |                             [https://curve.fi/#/ethereum/pools/factory-crypto-61/swap](https://curve.fi/#/ethereum/pools/factory-crypto-61/swap)                             |
+| BAOv2        | 0xCe391315b414D4c7555956120461D21808A69F3A | [https://app.uniswap.org/#/tokens/ethereum/0xce391315b414d4c7555956120461d21808a69f3a](https://app.uniswap.org/#/tokens/ethereum/0xce391315b414d4c7555956120461d21808a69f3a) |
 
