@@ -13,3 +13,5 @@ First, you will need to be on the distribution page, then go to Locked BAO it sh
 Click on "Start Distribution," then click confirm in your wallet.
 
 <figure><img src="../../.gitbook/assets/44f0947ee6ef53dffcfa80ce8f3c7d93.jpg" alt=""><figcaption></figcaption></figure>
+
+Make sure if you wish to stake your Locked Balance to veBAO to do it first because if you lock the liquid token first, you will not be able to do so with your locked anymore.
