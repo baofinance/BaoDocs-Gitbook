@@ -2,7 +2,7 @@
 
 * [Bao Finance](README.md)
   * [Synthetics](readme/synthetic-assets.md)
-* [Distribution/Tokenomics](distribution-tokenomics/README.md)
+* [The BAO token and veBAO](distribution-tokenomics/README.md)
   * [Distribution and Emissions](distribution-tokenomics/distribution-and-emissions.md)
   * [Locked Token Distribution](distribution-tokenomics/locked-token-distribution.md)
 * [Bao DAO](dao-structure/README.md)

@@ -1,4 +1,4 @@
-# Distribution/Tokenomics
+# The BAO token and veBAO
 
 
 
@@ -9,8 +9,6 @@ Active participants who stake their rewards receive more rewards over time
 {% hint style="success" %}
 Long-term-oriented BAO holders control where BAO emissions go.
 {% endhint %}
-
-## The BAO token and veBAO
 
 The Bao token is essential to the Bao ecosystem. It is distributed to liquidity providers who stake their liquidity tokens in gauges.
 
