@@ -8,13 +8,17 @@
 * [Bao DAO](dao-structure/README.md)
   * [Governance](dao-structure/governance-mandates.md)
   * [Treasury](dao-structure/treasury.md)
-* [Contracts](contracts.md)
+* [Contracts](contracts/README.md)
+  * [Baskets](contracts/baskets.md)
+  * [Markets (Mainnet)](contracts/deployed-contracts-mainnet.md)
+  * [Markets (Ropsten)](contracts/deployed-contracts-ropsten.md)
 * [Risks for users](risks-of-bao-reasons-not-to-use-bao.md)
 * [Benefits of BAO](benefits-of-bao-reasons-to-use-bao.md)
 * [Fees, Penalties & Funds](fees-penalties-and-funds.md)
 
 ## Migration
 
+* [Important Notes](migration/important-notes.md)
 * [tBAO/BAOcx bridging to mainnet](migration/tbao-baocx-bridging-to-mainnet/README.md)
   * [Redeeming tBAO](migration/tbao-baocx-bridging-to-mainnet/redeeming-tbao.md)
   * [Converting Bao coupons to BAO](migration/tbao-baocx-bridging-to-mainnet/converting-bao-coupons-to-bao.md)
@@ -30,11 +34,8 @@
 * [Bao Baskets (soft synths)](franchises/bao-baskets-soft-synths/README.md)
   * [How they work](franchises/bao-baskets-soft-synths/how-they-work.md)
   * [bSTBL](franchises/bao-baskets-soft-synths/bstbl.md)
-  * [Contracts and Key Info](franchises/bao-baskets-soft-synths/contracts-and-key-info.md)
 * [Bao Markets (hard synths)](franchises/bao-markets-hard-synths/README.md)
   * [Collateral Factors](franchises/bao-markets-hard-synths/collateral-factors.md)
-  * [Deployed Contracts (Mainnet)](franchises/bao-markets-hard-synths/deployed-contracts-mainnet.md)
-  * [Deployed Contracts (Ropsten)](franchises/bao-markets-hard-synths/deployed-contracts-ropsten.md)
 
 ## Guides
 

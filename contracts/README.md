@@ -1,3 +1,7 @@
+---
+description: Main Contracts
+---
+
 # Contracts
 
 {% hint style="success" %}
