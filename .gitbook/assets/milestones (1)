@@ -61,7 +61,7 @@
 
     
 
-  <meta name="request-id" content="55D4:B413:3513F78:36CA404:6389DFEC" data-pjax-transient="true"/><meta name="html-safe-nonce" content="b2a586fb63a82b7ce6ed0e296c2b4d9b3e1cbd44e6b3c5778fd90aa162e01c9d" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiI1NUQ0OkI0MTM6MzUxM0Y3ODozNkNBNDA0OjYzODlERkVDIiwidmlzaXRvcl9pZCI6IjIxMjE2ODgwOTMyNzAwNzMzMjUiLCJyZWdpb25fZWRnZSI6ImZyYSIsInJlZ2lvbl9yZW5kZXIiOiJmcmEifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="da8382241eb465ccb72d878f6d2de4303681dfdffbc5a4e673e5a104a96e6be1" data-pjax-transient="true"/>
+  <meta name="request-id" content="8307:368D:12ED2C0:1B826B1:6389DFF9" data-pjax-transient="true"/><meta name="html-safe-nonce" content="98d9579e057956cf7e27c055473f31ab033f3b5f0a793cf27c97bb0a91c00325" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiI4MzA3OjM2OEQ6MTJFRDJDMDoxQjgyNkIxOjYzODlERkY5IiwidmlzaXRvcl9pZCI6IjkwNDA1NjQ0NjcxODE3MzE3NyIsInJlZ2lvbl9lZGdlIjoiaWFkIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true"/><meta name="visitor-hmac" content="46a814508aea9a78b4a08f0593f98b703d2c89a025887613e3c99bccb82c0a99" data-pjax-transient="true"/>
 
 
     <meta name="hovercard-subject-tag" content="repository:462199428" data-turbo-transient>
@@ -558,7 +558,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="IYQNJBHwDCXGGv+9iKLqj6Fq/laUczjCob1XVc8EnzVKqHYOKENBa+rueQfNgUXX2kEdYehDMZiq/EKygvWxYg==" />
+        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="xI30ogSUXtWvxnfHS6nMolTjczMfQ92T+raUbZtneEVSMbz63thSlMfHsuMZYDpdaNK+pAK5BO4Rz5VX+58m5A==" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
