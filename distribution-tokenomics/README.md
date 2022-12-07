@@ -1,6 +1,6 @@
 # The BAO token and veBAO
 
-
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 Active participants who stake their rewards receive more rewards over time
