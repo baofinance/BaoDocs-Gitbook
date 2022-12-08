@@ -6,7 +6,7 @@ description: >-
 
 # Migrating Locked BAO
 
-First, you will need to be on the distribution page, then go to Locked BAO it should look like this.
+First, you will need to be on the [distribution page](https://app.bao.finance/distribution/), then go to Locked BAO it should look like this.
 
 <figure><img src="../../.gitbook/assets/db1a1019c9d9d9ee7a720c25027c21b7 (1).png" alt=""><figcaption></figcaption></figure>
 

@@ -6,7 +6,7 @@ description: >-
 
 # Exchanging BAOv1 for BAOv2
 
-To exchange your BAOv1 for BAOv2, you'll want to go to the distribution page, which looks like this.&#x20;
+To exchange your BAOv1 for BAOv2, you'll want to go to the [distribution page](https://app.bao.finance/distribution/), which looks like this.&#x20;
 
 <figure><img src="../.gitbook/assets/7c98dfa6b251103dab245fecf17202b5.jpg" alt=""><figcaption></figcaption></figure>
 
