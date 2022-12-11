@@ -6,7 +6,7 @@ description: >-
 
 # Exchanging BAOv1 for BAOv2
 
-Go to [app.bao.finance](https://app.bao.finance/) when you are on the site, you'll want to go to the top right and click "Swap BAOv1 - BAOv2!"
+Go to [app.bao.finance](https://app.bao.finance/) when you are on the site, you'll want to go to the top right and click "Swap BAOv1 - BAOv2!" this will only show if you have BAOv1 in your wallet.
 
 <figure><img src="../.gitbook/assets/691a6d9a929e22c46a21ebeb497368b1.png" alt=""><figcaption></figcaption></figure>
 
