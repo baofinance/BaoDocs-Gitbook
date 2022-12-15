@@ -20,4 +20,4 @@ description: Market specific Contracts
 | USDC interest rate model  | 0x681Cf55f0276126FAD8842133C839AB4D607E729 | [Link](https://etherscan.io/address/0x681Cf55f0276126FAD8842133C839AB4D607E729) |
 | USDC bdToken              | 0x7749f9f3206A49d4c47b60db05716409dC3A4149 | [Link](https://etherscan.io/address/0x7749f9f3206A49d4c47b60db05716409dC3A4149) |
 | baoUSD-3Pool              | 0x0FaFaFD3C393ead5F5129cFC7e0E12367088c473 | [Link](https://etherscan.io/address/0x0FaFaFD3C393ead5F5129cFC7e0E12367088c473) |
-|                           |                                            |                                                                                 |
+| bSTBL bdToken             | 0xE0a55c00E6510F4F7df9af78b116B7f8E705cA8F | [Link](https://etherscan.io/address/0xE0a55c00E6510F4F7df9af78b116B7f8E705cA8F) |
