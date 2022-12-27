@@ -56,6 +56,11 @@
 * [BAO Baskets](guides/bao-baskets/README.md)
   * [Minting a Basket](guides/bao-baskets/minting-a-basket.md)
   * [Redeeming a Basket](guides/bao-baskets/redeeming-a-basket.md)
+* [Gauges](guides/gauges/README.md)
+  * [Acquiring LP Tokens to deposit](guides/gauges/acquiring-lp-tokens-to-deposit/README.md)
+    * [Curve LPs](guides/gauges/acquiring-lp-tokens-to-deposit/curve-lps.md)
+    * [Uniswap LPs](guides/gauges/acquiring-lp-tokens-to-deposit/uniswap-lps.md)
+  * [Depositing LPs for rewards](guides/gauges/depositing-lps-for-rewards.md)
 * [Claiming BAO NFT](guides/claiming-bao-nft.md)
 
 ## FAQ

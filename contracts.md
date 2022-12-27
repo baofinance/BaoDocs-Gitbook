@@ -24,6 +24,12 @@ description: Main Contracts
 **BaseBurner:** 0x9Ec01C8315FB3062C9C790c368b0001A84E94A74
 
 **SmartWalletWhitelist:** 0x1390c3ffb3f45864641f08bcc66211935B10D753
+
+**BAO-ETH Gauge:** 0xe7f3a90AEe824a55B0F8969b6e29698966EE0191
+
+**baoUSD-3crv Gauge:** 0x0a39eE038AcA8363EDB6876d586c5c7B9336a562
+
+**bSTBL-DAI Gauge:** 0x675F82DF9e2fC99F8E18D0134eDA68F9232c0Af9
 {% endhint %}
 
 | Token Symbol | Token Contract                             |                                                                                     Pool                                                                                     |
