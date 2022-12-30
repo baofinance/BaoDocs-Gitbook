@@ -36,6 +36,6 @@ description: Main Contracts
 | ------------ | ------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | baoUSD       | 0x7945b0A6674b175695e5d1D08aE1e6F13744Abb0 |                                 [https://curve.fi/#/ethereum/pools/factory-v2-84/swap](https://curve.fi/#/ethereum/pools/factory-v2-84/swap)                                 |
 | bSTBL        | 0x5ee08f40b637417bcC9d2C51B62F4820ec9cF5D8 |                             [https://curve.fi/#/ethereum/pools/factory-crypto-61/swap](https://curve.fi/#/ethereum/pools/factory-crypto-61/swap)                             |
-| BAOv2        | 0xCe391315b414D4c7555956120461D21808A69F3A | [https://app.uniswap.org/#/tokens/ethereum/0xce391315b414d4c7555956120461d21808a69f3a](https://app.uniswap.org/#/tokens/ethereum/0xce391315b414d4c7555956120461d21808a69f3a) |
+| BAOv2        | 0xce391315b414d4c7555956120461d21808a69f3a | [https://app.uniswap.org/#/tokens/ethereum/0xce391315b414d4c7555956120461d21808a69f3a](https://app.uniswap.org/#/tokens/ethereum/0xce391315b414d4c7555956120461d21808a69f3a) |
 | veBAO        | 0x8bf70dfe40f07a5ab715f7e888478d9d3680a2b6 |              [https://etherscan.io/address/0x8bf70dfe40f07a5ab715f7e888478d9d3680a2b6](https://etherscan.io/address/0x8bf70dfe40f07a5ab715f7e888478d9d3680a2b6)              |
 
