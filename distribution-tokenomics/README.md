@@ -33,6 +33,8 @@ veBAO improves incentive alignment throughout the protocol. One of the tools it 
 
 Gauges help to incentivize behaviors that are helpful to the protocol, such as increasing lending, deepening liquidity in specific pairs, and growing collaborative relationships with other projects.
 
-The amount of BAO allocated to each gauge is called the "gauge weight". veBAO holders can distribute their voting power across gauges however they like, which results in a decreasing influence for users or pools that sell most of their rewards and an increasing influence for those that do the opposite.&#x20;
+The amount of BAO allocated to each gauge is called the "gauge weight". veBAO holders can distribute their voting power across gauges however they like, which results in a decreasing influence for users or pools that sell most of their rewards and an increasing influence for those that do the opposite. \
+\
+Voting periods start and end every Thursday, whatever veBAO allocation you have towards a gauge will apply after the end of a voting period. You may only change your allocations every 10 days from the last allocation you put towards a gauge and must reduce allocations on gauges to gain back voting power to use on another gauge.
 
 **veBAO gauges align incentives of veBAO holders so that the most long-term oriented BAO holders control where the BAO emissions go.**
