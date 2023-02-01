@@ -2,11 +2,9 @@
 description: Main Contracts
 ---
 
-# Contracts
+# Contracts & Key Info
 
 {% hint style="success" %}
-**Baov1 token**: 0x374CB8C27130E2c9E04F44303f3c8351B9De61C1
-
 **Treasury (multisig)**: 0x3dFc49e5112005179Da613BdE5973229082dAc35
 
 **VotingEscrow:** 0x8Bf70DFE40F07a5ab715F7e888478d9D3680a2B6
