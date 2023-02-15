@@ -7,6 +7,7 @@
   * [Locked Token Distribution](distribution-tokenomics/locked-token-distribution.md)
 * [Bao DAO](dao-structure/README.md)
   * [Governance](dao-structure/governance-mandates.md)
+  * [Applying for a BAO Liquidity Gauge](dao-structure/applying-for-a-bao-liquidity-gauge.md)
   * [Treasury](dao-structure/treasury.md)
 * [Contracts & Key Info](contracts-and-key-info/README.md)
   * [Baskets](contracts-and-key-info/baskets.md)
