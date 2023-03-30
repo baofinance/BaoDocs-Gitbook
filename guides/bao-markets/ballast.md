@@ -1,6 +1,6 @@
 # Ballast
 
-The Ballast allows users to swap between bUSD and available DAI for a 1% fee.
+The Ballast allows users to swap between baoUSD and available DAI for a 1% fee.
 
 * From the front page click on Ballast to move over to that tab on the site.
 
@@ -10,6 +10,6 @@ The Ballast allows users to swap between bUSD and available DAI for a 1% fee.
 
 ![](https://lh5.googleusercontent.com/Xau39ktuBOSpPw6Glb0vvwAwtkx4kwLy\_kaAXcjYEgLfRcnbYFJ-sxcLQJLfC-u71youzo\_nphflqxEQZKDIl82bE8PgxWH0AvOfle10MeYUduxpQNzWBx8iZyYzS4tEFjW1lAEd)
 
-* After you approve, click on the swap button at the bottom. This will push a transaction to your wallet, click confirm.&#x20;
+* After you approve, click on the swap button at the bottom. This will push a transaction to your wallet, click confirm.
 
 ![](https://lh3.googleusercontent.com/tRMOKhw30jpuCiYulczo8smJi6\_Ji6lHNbh-5zDOEfX9-ekU4yAf\_HaufJcbWdzO6farpNH5IN89Sh0ogV5mEvfMcSIgNVAtHRx88SXvd6ehlwFAQ-i9QlP9qpyTX66MPVsBPBvY)

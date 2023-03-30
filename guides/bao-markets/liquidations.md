@@ -10,9 +10,9 @@ Liquidations occur when you go over your Debt Limit. Health Factor shows you how
 \
 A health factor of 2 means your collateral can half in price before you are flagged for liquidation. 3 means it can lose 66% of its value and 4 means 75% etc.
 
-![](<../../.gitbook/assets/image (13).png>)
+![](../../.gitbook/assets/6daabb2862f477881924107f79e77e12.png)
 
-Under 1 means that you have gone over your debt limit - Your position is flagged for liquidation and any liquidation bots watching can immediately repay your loan and seize the equivalent value in collateral + a liquidation penalty. \
+Under 1 means that you have gone over your debt limit - Your position is flagged for liquidation and any liquidation bots watching can immediately repay your loan and seize the equivalent value in collateral + a liquidation penalty.\
 \
 It's important to take price volatility into account when making when minting synthetics, for both collateral and the synthetics.
 
