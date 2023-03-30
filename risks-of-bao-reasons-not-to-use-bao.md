@@ -1,4 +1,4 @@
-# Risks of Bao / Reasons Not to Use Bao
+# Risks for users
 
 Many teams focus on why you should use the products they make.\
 \
@@ -6,10 +6,10 @@ But in crypto Defi, there are lots of risks, and it is responsible for a team to
 
 We also outline steps we took to protect against these.
 
-### Bao Markets
+### Bao Vaults
 
-* **Bad debt:** In extreme market conditions, liquidating collateralized positions could fail to result in bad debts. Bao markets only accept the most liquid and robust collaterals. We work with other protocols and individuals to maintain a community of liquidators, direct a portion of fees to an insurance fund, and reduce collateral factors for larger positions to mitigate this risk. Regardless of these steps, a black swan event may cause collateral to lose value too quickly to be liquidated safely.
-* **Synth depeg**: Market conditions dictate the price of tokenized synthetics like baoUSD and baoETH. While Bao Markets will always allow users to create new positions or repay old ones at the correct value, synthetic tokens can trade above or below the peg. We rely on market participants to arbitrage synths back to their pegged value by creating or closing debt positions or using "the ballast". During periods of high volatility, for example, in a market crash, it is likely that demand will be increased to purchase synths and close positions, putting upwards pressure on the market price. If demand for leveraged positions is high, it will have the opposite effect, creating sell pressure and possibly resulting in synths trading below the peg.
+* **Bad debt:** In extreme market conditions, liquidating collateralized positions could fail to result in bad debts. Bao vaults only accept the most liquid and robust collaterals. We work with other protocols and individuals to maintain a community of liquidators, direct a portion of fees to an insurance fund, and reduce collateral factors for larger positions to mitigate this risk. Regardless of these steps, a black swan event may cause collateral to lose value too quickly to be liquidated safely.
+* **Synth depeg**: Market conditions dictate the price of tokenized synthetics like baoUSD and baoETH. While Bao Vaults will always allow users to create new positions or repay old ones at the correct value, synthetic tokens can trade above or below the peg. We rely on market participants to arbitrage synths back to their pegged value by creating or closing debt positions or using "the ballast". During periods of high volatility, for example, in a market crash, it is likely that demand will be increased to purchase synths and close positions, putting upwards pressure on the market price. If demand for leveraged positions is high, it will have the opposite effect, creating sell pressure and possibly resulting in synths trading below the peg.
 * **High-interest rates**: If synths start to trade below their pegs, one of the mechanisms to combat this is to increase the interest rate borrowers are paying, incentivizing the purchase and closing of positions.\
 
 

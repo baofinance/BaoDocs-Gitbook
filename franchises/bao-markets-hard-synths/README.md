@@ -1,8 +1,8 @@
-# Bao Markets (hard synths)
+# Bao Vaults (hard synths)
 
-Bao starts its journey towards an open and accurate financial marketplace with BAO Markets, our minimum viable synth product.
+Bao starts its journey towards an open and accurate financial marketplace with BAO Vaults, our minimum viable synth product.
 
-Bao Markets allows you to use different collateral types to mint synthetic tokens, starting with Bao USD.
+Bao Vaults allows you to use different collateral types to mint synthetic tokens, starting with Bao USD.
 
 They are built upon the [Compound ](https://compound.finance/)protocol and therefore share many similar functions and components.
 

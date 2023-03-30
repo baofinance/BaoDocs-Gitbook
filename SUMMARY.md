@@ -10,8 +10,8 @@
   * [Treasury](dao-structure/treasury.md)
 * [Contracts & Key Info](contracts-and-key-info/README.md)
   * [Baskets](contracts-and-key-info/baskets.md)
-  * [Markets (Mainnet)](contracts-and-key-info/deployed-contracts-mainnet.md)
-  * [Markets (Ropsten)](contracts-and-key-info/deployed-contracts-ropsten.md)
+  * [Vaults (Mainnet)](contracts-and-key-info/deployed-contracts-mainnet.md)
+  * [Vaults (Ropsten)](contracts-and-key-info/deployed-contracts-ropsten.md)
   * [Legacy](contracts-and-key-info/legacy.md)
 * [Applying for a BAO Liquidity Gauge](applying-for-a-bao-liquidity-gauge.md)
 * [Risks for users](risks-of-bao-reasons-not-to-use-bao.md)
@@ -36,7 +36,7 @@
 * [Bao Baskets (soft synths)](franchises/bao-baskets-soft-synths/README.md)
   * [How they work](franchises/bao-baskets-soft-synths/how-they-work.md)
   * [bSTBL](franchises/bao-baskets-soft-synths/bstbl.md)
-* [Bao Markets (hard synths)](franchises/bao-markets-hard-synths/README.md)
+* [Bao Vaults (hard synths)](franchises/bao-markets-hard-synths/README.md)
   * [Collateral Factors](franchises/bao-markets-hard-synths/collateral-factors.md)
 
 ## Guides
