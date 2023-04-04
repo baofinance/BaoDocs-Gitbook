@@ -1,58 +1,48 @@
+---
+description: A DAO-Managed, Interest-Bearing Basket of Low-Risk Stablecoins
+---
+
 # bSTBL
 
-\
-bSTBL is a DAO managed, interest bearing basket of low risk stable coins.&#x20;
+bSTBL is a community-managed, interest-bearing basket of low-risk stablecoins designed to diversify risk and optimize yield across a selection of industry-leading, fully-backed stablecoins. The stablecoins and yield options used by bSTBL are selected by the community to ensure the lowest possible risk, with projects such as Aave and Compound being utilized to increase the capital efficiency of deposited tokens.
 
-The stables are selected by the community to diversify risk between different types of industry leading, fully backed stables.&#x20;
+### Objective
 
-The yield options available to be used by tokens in bSTBL are again selected by the community to be as low risk as possible, with projects like Aave and Compound being used to increase the capital efficiency of deposited tokens.
+The primary objective of bSTBL is to provide exposure to a diversified basket of stablecoins with a focus on yield and decentralization. By spreading risk across multiple coins, bSTBL mitigates the impact of issues faced by individual tokens. As the basket does not automatically rebalance with price changes, one stablecoin losing its peg will not affect the other tokens in the basket. By using decentralized stablecoins, bSTBL reduces exposure to regulatory risk and reliance on central issuers.
 
-## Objective
+### Strategy and Management
 
-To provide exposure to a diversified basket of stable coins with a focus on yield and decentralization.
+bSTBL starts with a mixture of centrally issued and decentralized stablecoins, depositing them into various protocols to earn yield. The strategies are swapped regularly to maximize the yield earned. Rebalancing occurs when the community believes the underlying tokens used are no longer the best available options or when weightings have changed for other reasons.
 
-By spreading risk over a number of coins, you reduce the impact of problems any single tokens face. Since the basket does not automatically rebalance as prices change, one stable losing its peg would not affect the other tokens in the basket.
+The basket is maintained quarterly in two phases:
 
-By using decentralized stables, you also reduce exposure to regulatory risk and do not rely on central issuers to continually act as they should.
+#### Determination Phase
 
-The basket will start with a mixture of centrally issued and decentralized stable coins and deposit them in a variety of protocols to earn yield on them, swapping strategies regularly to maximize the yield earned.&#x20;
+During the last two weeks of the quarter, the determination phase takes place. In this phase, changes needed for the next reconstitution are determined. Strategies and allocation percentages are revisited to strike a balance between decentralization and optimal, secure yield for the stablecoins. Proposed changes are published on the governance forum for one week, followed by a governance vote for the community to approve the changes.
 
-Rebalancing will occur when the community no longer believes the underlying tokens used are the best available options or the weightings have changed for one reason or another.
+#### Reconstitution Phase
 
-## Criteria
+In the two weeks following a successful vote, the basket components are adjusted according to the instructions published during the determination phase.
 
-For a project to be included in the Bao Stable basket, it must fit the below criteria in order to reduce the risk of the basket and fit the desires of the community.
+#### Emergency Maintenance
 
-### Characteristics
+Multisig holders are authorized by the community to rebalance baskets outside the usual schedule during critical emergencies. This clause allows for quick rebalancing in the event of a protocol or basket being in danger of failing.
+
+### Criteria for Inclusion
+
+For a project to be included in the bSTBL basket, it must meet the following criteria:
 
 * Be a stable token project available on the Ethereum blockchain.
-* Be in liquid markets and being used in different lending protocols.
-* The protocol must be running for 6 months before qulaifying to be included in the basket.
-* In the event of a safety incident, the team must have addressed the problem responsibly and promptly, providing users of the protocol a reliable solution and document a detailed, transparent breakdown of the incident.
-* The protocol must be running for 3 months before qualifying to be included in the basket.
-* In the event of a safety incident, the team must have addressed the problem responsibly and promptly, providing users of the protocol a reliable solution and document a detailed, transparent breakdown of the incident.
+* Be in liquid markets and used in various lending protocols.
+* The protocol must have been operational for at least six months.
+* In the event of a safety incident, the team must have addressed the problem responsibly and promptly, providing a reliable solution and a transparent, detailed breakdown of the incident.
 * Must be sufficiently decentralized and/or collateralized.
 
-## Strategy
+### Key Advantages of bSTBL
 
-It is possible for the underlying tokens to utilize strategies that will earn yield, maximising value for basket holders, who benefit from this productivity without having to perform any actions themselves. These strategies will be changed over time to take advantage of new opportunities or to maximise the yield earned.
+1. **Diversification**: Spreading risk over multiple stablecoins reduces the impact of problems faced by individual tokens.
+2. **Decentralization**: Using decentralized stablecoins reduces exposure to regulatory risk and reliance on central issuers.
+3. **Yield Optimization**: The underlying tokens utilize strategies that maximize yield for basket holders without requiring any action on their part.
+4. **Community Management**: The basket is maintained by the community, ensuring that decisions are made in the best interest of all stakeholders.
 
-## Management
-
-The Basket is maintained quarterly in two phases.
-
-### Determination Phase
-
-The determination phase takes place during the final 2 weeks of the quarter. During this phase the changes needed for the next reconstitution are determined. Strategies and allocation % will be revisited in order to reach the balance between decentralization and having the most optimal yet secure yield possible for those stables. Proposed changes will be published on the governance forum for 1 week then a governance vote will run for the community to approve changes.
-
-### Reconstitution Phase
-
-In the two weeks following a successful vote, the basket components will be adjusted as per the instructions published during the final 2 weeks of the quarter.
-
-### Emergency Maintenance
-
-The multisig holders are authorized by the community to re-balance baskets outside the usual schedule during moments that they collectively deem to be critical emergencies. This clause will allow for quick re-balancing in the event of a protocol or basket being in danger of failing.
-
-An example of when this would be utilized would be if a stable coin begins losing its peg/ becoming insolvent, or a protocol suffers an exploit that is not dealt with sufficiently. These scenarios may be time sensitive and require immediate resolution. Thus the team may decide to act without warning and explain their actions in a governance forum post afterwards, or if there is deemed to be time, an emergency governance vote will be posted.
-
-This is intended as a safety mechanism only, to prevent loss of users funds and as such would be a power exclusively exercised under extreme circumstances.
+bSTBL is an innovative solution for users seeking exposure to a diversified basket of low-risk stablecoins with a focus on yield and decentralization. Managed by the community, bSTBL reduces risk, optimizes yield, and supports decentralization in the DeFi ecosystem.
