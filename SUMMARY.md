@@ -18,6 +18,17 @@
 * [Benefits of BAO](benefits-of-bao-reasons-to-use-bao.md)
 * [Fees, Penalties & Funds](fees-penalties-and-funds.md)
 
+## Products <a href="#franchises" id="franchises"></a>
+
+* [Bao Baskets (soft synths)](franchises/bao-baskets-soft-synths/README.md)
+  * [How they work](franchises/bao-baskets-soft-synths/how-they-work.md)
+  * [bSTBL](franchises/bao-baskets-soft-synths/bstbl.md)
+  * [bETH](franchises/bao-baskets-soft-synths/beth.md)
+* [Bao Vaults (hard synths)](franchises/bao-markets-hard-synths/README.md)
+  * [Collateral Factors](franchises/bao-markets-hard-synths/collateral-factors.md)
+  * [baoUSD](franchises/bao-markets-hard-synths/baousd.md)
+  * [baoETH](franchises/bao-markets-hard-synths/baoeth.md)
+
 ## Migration
 
 * [Important Notes](migration/important-notes.md)
@@ -30,14 +41,6 @@
   * [Relocking into veBAO](migration/migrating-locked-bao/relocking-into-vebao.md)
   * [Claiming Locked BAO](migration/migrating-locked-bao/claiming-locked-bao.md)
   * [End your Distribution](migration/migrating-locked-bao/end-your-distribution.md)
-
-## Products <a href="#franchises" id="franchises"></a>
-
-* [Bao Baskets (soft synths)](franchises/bao-baskets-soft-synths/README.md)
-  * [How they work](franchises/bao-baskets-soft-synths/how-they-work.md)
-  * [bSTBL](franchises/bao-baskets-soft-synths/bstbl.md)
-* [Bao Vaults (hard synths)](franchises/bao-markets-hard-synths/README.md)
-  * [Collateral Factors](franchises/bao-markets-hard-synths/collateral-factors.md)
 
 ## Guides
 
