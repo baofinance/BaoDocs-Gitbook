@@ -2,7 +2,7 @@
 
 Anyone can apply for a Bao liquidity gauge. You can do so by copying the template below and posting a concept on our governance forum here: [https://gov.bao.finance/c/concepts/7](https://gov.bao.finance/c/concepts/7)
 
-****
+
 
 **Summary:**
 

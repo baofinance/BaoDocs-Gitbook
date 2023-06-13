@@ -6,7 +6,7 @@ BAO is governed and run by its community of token holders who are at the center 
 
 A galaxy is a group of people serving the community with a common goal. A galaxy can be temporary or permanent, and people can be members of multiple galaxies.
 
-There are several permanent galaxies already in existence, and new ones can be proposed for and created by following the [**Bao Improvement Proposal process**](broken-reference)****
+There are several permanent galaxies already in existence, and new ones can be proposed for and created by following the [**Bao Improvement Proposal process**](broken-reference)
 
 Any Galaxy may be shut down, or its members recalled, and payment immediately ended by full governance vote.
 
