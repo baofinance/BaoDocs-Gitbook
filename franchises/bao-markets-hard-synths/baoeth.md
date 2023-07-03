@@ -1,6 +1,6 @@
 ---
 description: >-
-  Benefit from top-tier borrow rates, amplify staking returns, and generate
+  Benefit from lower borrow rates, amplify staking returns, and generate
   earnings as you spend!
 ---
 
@@ -10,7 +10,7 @@ description: >-
 
 The DeFi landscape has witnessed remarkable expansion, especially in the Liquid Staked Derivative (LSD) market. The Shanghai upgrade has facilitated staked ETH withdrawals, resulting in heightened liquidity for LSD providers.
 
-baoETH caters to the borrowing demand of LSD holders who aim to exploit the disparity between the staking APR (4-7%) and the ETH borrow rate to boost their yield. A limited supply of ETH for depositing creates a dynamic where a minor gap persists between the ETH staking APR and the borrow APR. baoETH provides borrowers with unlimited borrowing liquidity at a reduced rate and with a lower correlation to the ETH staking APR.
+baoETH caters to the borrowing demand of LSD holders who aim to exploit the disparity between the staking APR (4-7%) and the ETH borrow rate to boost their yield. A limited supply of ETH for depositing creates a dynamic where a minor gap persists between the ETH staking APR and the borrow APR. baoETH provides borrowers with borrowing liquidity at a reduced rate and with a lower correlation to the ETH staking APR.
 
 ### Introducing baoETH: Overcollateralized ETH-Pegged Synthetic Token
 
