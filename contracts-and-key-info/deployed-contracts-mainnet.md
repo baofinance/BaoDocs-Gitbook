@@ -23,3 +23,7 @@ description: Market specific Contracts
 | Eth bdToken                   | 0xF635fdF9B36b557bD281aa02fdfaeBEc04CD084A | [Link](https://etherscan.io/address/0xe7a52262C1934951207c5fc7A944A82D283C83e5) |
 | baoUSD-3Pool                  | 0x0FaFaFD3C393ead5F5129cFC7e0E12367088c473 | [Link](https://etherscan.io/address/0x0FaFaFD3C393ead5F5129cFC7e0E12367088c473) |
 | bSTBL bdToken                 | 0xE0a55c00E6510F4F7df9af78b116B7f8E705cA8F | [Link](https://etherscan.io/address/0xE0a55c00E6510F4F7df9af78b116B7f8E705cA8F) |
+| bdbSTBL                       | 0xb0f8Fe96b4880adBdEDE0dDF446bd1e7EF122C4e | [Link](https://etherscan.io/address/0xb0f8Fe96b4880adBdEDE0dDF446bd1e7EF122C4e) |
+| bdbETH                        | 0xf7548a6e9DAf2e4689CEDD8A08189d0D6f3Ee91b | [Link](https://etherscan.io/address/0xf7548a6e9DAf2e4689CEDD8A08189d0D6f3Ee91b) |
+| bdbaoETH                      | 0xe853E5c1eDF8C51E81bAe81D742dd861dF596DE7 | [Link](https://etherscan.io/address/0xe853E5c1eDF8C51E81bAe81D742dd861dF596DE7) |
+| bdEther                       | 0x104079a87CE46fe2Cf27b811f6b406b69F6872B3 | [Link](https://etherscan.io/address/0x104079a87CE46fe2Cf27b811f6b406b69F6872B3) |

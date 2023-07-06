@@ -28,7 +28,17 @@ description: Main Contracts
 **baoUSD-3crv Gauge:** 0x0a39eE038AcA8363EDB6876d586c5c7B9336a562
 
 **bSTBL-DAI Gauge:** 0x675F82DF9e2fC99F8E18D0134eDA68F9232c0Af9
+
+**B-baoUSD-LUSD BP Gauge:** 0xdae71239d7f277824700dfc45b575e6aa21e2294
+
+**B-baoETH-ETH BP Gauge:** 0x15174daafd4a72f282cf875a839d1abe9bf444c1
+
+**B-baoUSD-LUSD/BAO Gauge:** 0x8fbcb931409d7118949b92c0ed2d692f6bcb3d92
+
+**B-baoETH-ETH/BAO Gauge:** 0x0e7b7f385dc87e515b44e05233c340d474ea9d7c
+
+**B-bETH-ETH** **Gauge:** 0x123Ec6701097d1C95771d0b8Fa48B0d88E7D7B62
 {% endhint %}
 
-<table><thead><tr><th width="165">Token Symbol</th><th width="159.33333333333331">Token Contract</th><th align="center">Pool</th></tr></thead><tbody><tr><td>baoUSD</td><td>0x7945b0A6674b175695e5d1D08aE1e6F13744Abb0</td><td align="center"><a href="https://curve.fi/#/ethereum/pools/factory-v2-84/swap">https://curve.fi/#/ethereum/pools/factory-v2-84/swap</a></td></tr><tr><td>bSTBL</td><td>0x5ee08f40b637417bcC9d2C51B62F4820ec9cF5D8</td><td align="center"><a href="https://curve.fi/#/ethereum/pools/factory-crypto-61/swap">https://curve.fi/#/ethereum/pools/factory-crypto-61/swap</a></td></tr><tr><td>BAOv2</td><td>0xce391315b414d4c7555956120461d21808a69f3a</td><td align="center"><a href="https://app.uniswap.org/#/tokens/ethereum/0xce391315b414d4c7555956120461d21808a69f3a">https://app.uniswap.org/#/tokens/ethereum/0xce391315b414d4c7555956120461d21808a69f3a</a></td></tr><tr><td>veBAO</td><td>0x8bf70dfe40f07a5ab715f7e888478d9d3680a2b6</td><td align="center"><a href="https://app.bao.finance/vebao/">https://app.bao.finance/vebao/</a></td></tr><tr><td>baoETH</td><td>0xf4edfad26EE0D23B69CA93112eccE52704E0006f</td><td align="center"><a href="https://etherscan.io/address/0xf4edfad26EE0D23B69CA93112eccE52704E0006f">https://etherscan.io/address/0xf4edfad26EE0D23B69CA93112eccE52704E0006f</a></td></tr></tbody></table>
+<table><thead><tr><th width="165">Token Symbol</th><th width="159.33333333333331">Token Contract</th><th align="center">Pool</th></tr></thead><tbody><tr><td>baoUSD</td><td>0x7945b0A6674b175695e5d1D08aE1e6F13744Abb0</td><td align="center"><a href="https://curve.fi/#/ethereum/pools/factory-v2-84/swap">https://curve.fi/#/ethereum/pools/factory-v2-84/swap</a></td></tr><tr><td>bSTBL</td><td>0x5ee08f40b637417bcC9d2C51B62F4820ec9cF5D8</td><td align="center"><a href="https://curve.fi/#/ethereum/pools/factory-crypto-61/swap">https://curve.fi/#/ethereum/pools/factory-crypto-61/swap</a></td></tr><tr><td>BAOv2</td><td>0xce391315b414d4c7555956120461d21808a69f3a</td><td align="center"><a href="https://app.uniswap.org/#/tokens/ethereum/0xce391315b414d4c7555956120461d21808a69f3a">https://app.uniswap.org/#/tokens/ethereum/0xce391315b414d4c7555956120461d21808a69f3a</a></td></tr><tr><td>veBAO</td><td>0x8bf70dfe40f07a5ab715f7e888478d9d3680a2b6</td><td align="center"><a href="https://app.bao.finance/vebao/">https://app.bao.finance/vebao/</a></td></tr><tr><td>baoETH</td><td>0xf4edfad26EE0D23B69CA93112eccE52704E0006f</td><td align="center"><a href="https://etherscan.io/address/0xf4edfad26EE0D23B69CA93112eccE52704E0006f">https://etherscan.io/address/0xf4edfad26EE0D23B69CA93112eccE52704E0006f</a></td></tr><tr><td>bETH</td><td>0xa1e3F062CE5825c1e19207cd93CEFdaD82A8A631</td><td align="center"><a href="https://etherscan.io/token/0xa1e3f062ce5825c1e19207cd93cefdad82a8a631">https://etherscan.io/token/0xa1e3f062ce5825c1e19207cd93cefdad82a8a631</a></td></tr></tbody></table>
 
