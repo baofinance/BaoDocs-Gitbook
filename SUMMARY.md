@@ -18,7 +18,7 @@
 * [Benefits of BAO](benefits-of-bao-reasons-to-use-bao.md)
 * [Fees, Penalties & Funds](fees-penalties-and-funds.md)
 
-## Products <a href="#products" id="products"></a>
+## Products
 
 * [Bao Baskets (soft synths)](products/bao-baskets-soft-synths/README.md)
   * [How they work](products/bao-baskets-soft-synths/how-they-work.md)

@@ -25,8 +25,7 @@ description: >-
 <figure><img src="../../.gitbook/assets/c97fa260d40812027e7261dbf555034a.png" alt=""><figcaption></figcaption></figure>
 
 * Enter the amount you wish to supply, then click supply at the bottom of the tab. You’ll notice as you type in the amount to supply, your new debt limit is updated. After you decide your amounts, click supply then confirm in your wallet.
-*
 
-    <figure><img src="../../.gitbook/assets/e5adc6dfe3991962a601d8e88f9a58b6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/e5adc6dfe3991962a601d8e88f9a58b6.png" alt=""><figcaption></figcaption></figure>
 
 Congrats! You’ve just completed the first step to begin using hard synths!
