@@ -70,6 +70,7 @@
 
 ## FAQ
 
+* [Team](faq/team.md)
 * [BAO Related Questions](faq/bao-related-questions.md)
 * [Glossary](faq/glossary.md)
 * [DeFi Questions](faq/defi-questions.md)
