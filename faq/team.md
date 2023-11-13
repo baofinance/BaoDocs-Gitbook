@@ -1,9 +1,13 @@
+---
+description: team@baofinance.io for inquires
+---
+
 # Team
 
 Maintainer: [Baowolf](https://twitter.com/BaoWolf\_eth) (transitioning to advisory role end of year)
 
 Community Galaxy: \
-Lead: [Jester](https://twitter.com/ThJester\_) - wickedousjester@gmail.com for inquiries\
+Lead: [Jester](https://twitter.com/ThJester\_)\
 Contributors: @SINSosure & @specialedge
 
 Product Engineering Galaxy: \
