@@ -64,3 +64,7 @@
     * [Redeeming a Basket](resources/guides/baskets/redeeming-a-basket.md)
   * [Ballast](resources/guides/ballast.md)
 * [Brand Guidelines](resources/brand-guidelines.md)
+
+***
+
+* [Technical Docs (wip)](https://info.bao.finance/bao-technical-docs/)
