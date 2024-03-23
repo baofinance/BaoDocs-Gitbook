@@ -25,10 +25,14 @@ You should generally always add a `^`, or a `>=` when you use `pragma solidity`o
 
 ## Dependencies / Packages
 
-In foundry you don't use yarn or npm, basically because there is no node files!
+In foundry you don't use yarn or npm, basically because there are no node files!
 
 You add solidity dependencies / packages using
 
 $ forge install \<package>
 
 See [https://soliditydeveloper.com/foundry](https://soliditydeveloper.com/foundry) for an example of how to use it with OpenZeppelin.
+
+More on foundry with OpenZeppelin upgradeable contracts:
+
+{% embed url="https://docs.openzeppelin.com/upgrades-plugins/1.x/foundry-upgrades" %}

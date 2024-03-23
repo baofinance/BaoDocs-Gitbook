@@ -24,9 +24,9 @@
     * [Solidity](developer-setup/writing-code/solidity.md)
     * [Typescript](developer-setup/writing-code/typescript.md)
     * [Making Changes](developer-setup/writing-code/making-changes.md)
-  * [Node based build/test](developer-setup/node-based-build-test.md)
   * [Foundry build/test](developer-setup/foundry-build-test/README.md)
     * [Private keys & .env file](developer-setup/foundry-build-test/private-keys-and-.env-file.md)
+  * [Node based build/test](developer-setup/node-based-build-test.md)
   * [Testing](developer-setup/testing.md)
   * [Deploying](developer-setup/deploying.md)
 
