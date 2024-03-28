@@ -18,4 +18,12 @@ Why? Two main reasons:
 
 Use prettier and set up your editor to format on save:
 
+{% embed url="https://prettier.io/docs/en/install.html" %}
+
+basically:
+
+yarn add prettier prettier-plugin-solidity
+
+be sure to exclude lib and node\_modules in prettierignore.rc
+
 {% embed url="https://www.educative.io/answers/how-to-set-up-prettier-and-automatic-formatting-on-vs-code" %}

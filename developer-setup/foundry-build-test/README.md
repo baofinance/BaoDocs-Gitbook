@@ -36,3 +36,11 @@ See [https://soliditydeveloper.com/foundry](https://soliditydeveloper.com/foundr
 More on foundry with OpenZeppelin upgradeable contracts:
 
 {% embed url="https://docs.openzeppelin.com/upgrades-plugins/1.x/foundry-upgrades" %}
+
+## Testing
+
+
+
+### Code coverage
+
+{% embed url="https://medium.com/@rohanzarathustra/forge-coverage-overview-744d967e112f" %}
