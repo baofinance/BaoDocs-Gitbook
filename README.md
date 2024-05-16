@@ -22,7 +22,7 @@ The sheer scope of the derivatives market is staggering. According to the Bank o
 
 Decentralized, on-chain derivatives offer increased accessibility, reduced counterparty risk, enhanced transparency, lower costs, 24/7 trading, and improved security.\
 \
-Best of all, onchain tokenized derivatives, or synthetics, can be created from any data feed, meaning the use cases go far beyond the already vast ones from traditional markets. \
+Best of all, on-chain tokenized derivatives, or synthetics, can be created from any data feed, meaning the use cases go far beyond the already vast ones from traditional markets. \
 \
 Bao will transform the way we leverage and interact with information. Markets and Data will be accessible and actionable for everyone, moving the power of information from institutions to individuals.
 
