@@ -18,7 +18,7 @@ Bao is grassroots, community-run, VC-free, and decentralization maximalist. \
 \
 We are building onchain tokenized derivatives, compatible with all of DeFi.\
 \
-The sheer scope of the derivatives market is staggering. According to the Bank of International Settlements, the notional value of all active derivatives contracts worldwide surged to an astounding $2.5 quadrillion by the close of 2022. To put this into perspective, this amount is more than 30 times the total global GDP, highlighting the immense size and influence of the derivatives market on the world's financial landscape.
+The sheer scope of the derivatives market is staggering. According to the Bank of International Settlements, the notional value of all active contracts worldwide surged to an astounding $2.5 quadrillion by the close of 2022. To put this into perspective, this amount is more than 30 times the total global GDP, highlighting the immense size and influence of the market on the world's financial landscape.
 
 Decentralized, on-chain derivatives offer increased accessibility, reduced counterparty risk, enhanced transparency, lower costs, 24/7 trading, and improved security.\
 \
