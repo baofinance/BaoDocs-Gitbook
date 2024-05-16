@@ -3,6 +3,7 @@
 * [Welcome to Bao Finance](README.md)
 * [Synth Use Cases](synth-use-cases.md)
 * [Roadmap](roadmap.md)
+* [Benefits of Bao](benefits-of-bao.md)
 * [Partnership and Collaboration Proposals](partnership-and-collaboration-proposals.md)
 
 ## Protocol
