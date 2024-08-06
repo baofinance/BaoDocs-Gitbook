@@ -50,7 +50,7 @@ For all collaterals, a liquidation fee of 10% applies. Here's the breakdown:
 
 If the Debt Health of your collateral dips below 1, it's earmarked for liquidation. In such an event, any user can settle your loan. Upon doing so, they're permitted to claim collateral worth 110% of the repayment value.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>To avoid liquidation, keep your debt health > 1</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>To avoid liquidation, keep your debt health > 1</p></figcaption></figure>
 
 You can improve your debt health by depositing more collateral or paying off some debt.
 

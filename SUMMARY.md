@@ -14,6 +14,7 @@
   * [The BAO token](protocol/ecosystem-dynamics/the-bao-token.md)
   * [veBAO](protocol/ecosystem-dynamics/vebao.md)
   * [Gauges](protocol/ecosystem-dynamics/gauges.md)
+* [baoUSD and baoETH](protocol/baousd-and-baoeth.md)
 * [Borrow Vaults](protocol/borrow-vaults.md)
 * [Liquidity Balancers](protocol/liquidity-balancers.md)
 * [Lending Backstops](protocol/lending-backstops.md)
