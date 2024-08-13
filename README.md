@@ -14,7 +14,7 @@ layout:
 
 # Welcome to Bao Finance
 
-Bao is grassroots, community-run, VC-free, and decentralization maximalist. \
+Bao is grassroots, decentralization maximalist, community-run and community funded.\
 \
 We are building onchain tokenized derivatives, compatible with all of DeFi.\
 \
