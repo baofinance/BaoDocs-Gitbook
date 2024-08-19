@@ -15,20 +15,20 @@ The key roadmap milestones are:
 * Launch of flywheel tokenomics changes that remove inflation in implement buybacks ✅
 * Sunset [baskets](protocol/archived-products/baskets.md) and approve new [Borrow Vault](protocol/borrow-vaults.md) collaterals ✅
 * Launch [Liquidity Balancers](protocol/liquidity-balancers.md) for baoUSD and baoETH ✅
-* Multichain alpha testing ⏳
+* Multichain alpha testing ✅
 * Minter Alpha testing ✅
 
 **Q2 2024:**
 
 * Launch the first baoUSD and baoETH Lend Market ⏳
 * Launch [Minter](protocol/the-minter-coming-soon.md) MVP ⏳
-* Complete research and begin testing integrations for multichain expansion
+* Complete research and begin testing integrations for multichain expansion ✅
 
 **Q3 2024:**
 
 * Expand baoUSD and baoETH Lend Markets
-* Evaluate progress and traction of lending markets and AMM FEDs. Make adjustments as needed based on market feedback
-* Complete research and begin testing integrations for data synth based Minter
+* Evaluate progress and traction of lending markets and AMM FEDs. Make adjustments as needed based on market feedback ⏳
+* Complete research and begin testing integrations for data synth based Minter ⏳
 * Launch first data synth Minter MVP if research successful
 
 **Q4 2024:**
