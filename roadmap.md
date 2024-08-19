@@ -26,14 +26,14 @@ The key roadmap milestones are:
 
 **Q3 2024:**
 
-* Expand baoUSD and baoETH Lend Markets
+* Expand baoUSD and baoETH Lend Markets ⏳
 * Evaluate progress and traction of lending markets and AMM FEDs. Make adjustments as needed based on market feedback ⏳
 * Complete research and begin testing integrations for data synth based Minter ⏳
-* Launch first data synth Minter MVP if research successful
+* Launch first data synth Minter MVP if research successful ⏳
 
 **Q4 2024:**
 
-* Launch multichain expansion if research successful
+* Launch multichain expansion if research successful ⏳
 * Begin development for data synth Minter Factory if research is successful
 * Develop plan and milestones for 2025 based on learnings from 2024 initiatives
 * Re-evaluate resource allocation and budgets based on trajectory
