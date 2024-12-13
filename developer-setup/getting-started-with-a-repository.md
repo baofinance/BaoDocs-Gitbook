@@ -8,7 +8,7 @@ Below is a standard GitHub process, for example see [https://github.com/ethereum
 
 Create yourself a GitHub username (if you don't already have one, or you might want a different username for Bao work), I'll call your new username _baorook_, below.
 
-Log in to GitHub as b_aorook_ and go to [https://github.com/baofinance](https://github.com/baofinance), the repositories are all there. Select the repository you want to contribute to. I'll call it _repo_ below.
+Log in to GitHub as &#x62;_&#x61;orook_ and go to [https://github.com/baofinance](https://github.com/baofinance), the repositories are all there. Select the repository you want to contribute to. I'll call it _repo_ below.
 
 Go to the _repo_ and Fork it using the menu near the top - you now have a forked   branch in your personal area https://github.com/_baorook_/repo.
 
