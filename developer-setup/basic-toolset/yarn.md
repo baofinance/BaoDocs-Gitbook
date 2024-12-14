@@ -25,19 +25,23 @@ $ nvm install --lts
 $ node --version
 ```
 
-then, finally install yarn:
+then, finally install yarn
 
 ```bash
 $ corepack enable
-$ yarn set version stable
+```
+
+This will cause the download the correct version of yarn for whatever project you are working in when it is first needed.
+
+```bash
 $ yarn --version
 ```
 
-for more info, see:
+it is likely to give some classic version of yarn. The version of yarn actually used will be that stored in the `package.json` file in the project you are working on. For more info, see:
 
 {% embed url="https://yarnpkg.com/getting-started/install" %}
 
-Make sure you are using a version of yarn > 2. Yarn 1 is great but yarn 2 offers a path to zero installs, even if we don't use them just yet (baby steps).&#x20;
+
 
 {% hint style="warning" %}
 Pay attention to yarn warnings of package conflicts. They may not cause a problem immediately but  invariably eventually do. Missing packages should be added and incorrect versions should be upgraded.
