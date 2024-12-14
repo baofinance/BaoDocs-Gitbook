@@ -2,17 +2,15 @@
 
 ## Introduction
 
-Below is a standard GitHub process, for example see [https://github.com/ethereum/ethereum-org-fork/blob/dev/README.md](https://github.com/ethereum/ethereum-org-fork/blob/dev/README.md), tailored for developing in the Bao environment.&#x20;
+Below is a standard GitHub process, for example see [https://github.com/ethereum/ethereum-org-fork/blob/dev/README.md](https://github.com/ethereum/ethereum-org-fork/blob/dev/README.md), tailored for developing in the Bao environment.
+
+Create yourself a GitHub username, if you don't already have one, or you might want a different username for Bao work, I'll call your username _baorook_, below.
 
 ## Fork the repository
 
 {% hint style="info" %}
 This is an optional step - most development is done in branches in repos in the baofinance area but if you are unsure you can do this.
 {% endhint %}
-
-
-
-Create yourself a GitHub username (if you don't already have one, or you might want a different username for Bao work), I'll call your new username _baorook_, below.
 
 Log in to GitHub as _baorook_ and go to [https://github.com/baofinance](https://github.com/baofinance), the repositories are all there. Select the repository you want to contribute to. I'll call it _repo_ below.
 
@@ -29,8 +27,8 @@ Your computer could be running Linux, MacOS or Windows. You could be doing devel
 On a terminal prompt:
 
 $ cd _path/to/development/area_ \
-$ git clone http://github.com/_baorook-or-baofinance_/_repo baorook_/_repo_ \
-$ cd _baorook_/_repo_
+$ git clone http://github.com/baofinance-or-_baorook_/_repo_ baofinance-or-_baorook_/_repo_ \
+$ cd baofinance-or-_baorook_/_repo_
 
 ## Working on the local repo
 
