@@ -12,7 +12,11 @@ From a windows prompt
 
 <mark style="color:green;">> winget install -e 'Git'</mark>
 
-From a linux prompt
+From a linux prompt:
+
+```bash
+$ sudo apt install git
+```
 
 ## GitHub
 
