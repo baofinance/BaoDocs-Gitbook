@@ -54,9 +54,7 @@ $ yarn install
 
 and build the code
 
-$ yarn hardhat compile
 
-Read this: [https://hardhat.org/hardhat-runner/docs/getting-started#overview](https://hardhat.org/hardhat-runner/docs/getting-started#overview)
 
 where you see npx, use yarn, e.g. "npx hardhat" => "yarn hardhat".
 
