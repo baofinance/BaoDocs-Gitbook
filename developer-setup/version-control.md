@@ -2,13 +2,17 @@
 
 ## Git
 
-Git is a local repository for your code changes
+Git is software that manages a local repository for your code changes
 
 {% embed url="https://git-scm.com/docs/user-manual" %}
+Git user manual
+{% endembed %}
 
 From a windows prompt
 
 <mark style="color:green;">> winget install -e 'Git'</mark>
+
+From a linux prompt
 
 ## GitHub
 

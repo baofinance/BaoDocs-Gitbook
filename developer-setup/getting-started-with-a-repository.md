@@ -6,9 +6,13 @@ Below is a standard GitHub process, for example see [https://github.com/ethereum
 
 ## Fork the repository
 
+{% hint style="info" %}
+This is an optional step - most development is done in branches in repos in the baofinance area but if you are unsure you can do this.
+{% endhint %}
+
 Create yourself a GitHub username (if you don't already have one, or you might want a different username for Bao work), I'll call your new username _baorook_, below.
 
-Log in to GitHub as &#x62;_&#x61;orook_ and go to [https://github.com/baofinance](https://github.com/baofinance), the repositories are all there. Select the repository you want to contribute to. I'll call it _repo_ below.
+Log in to GitHub as _baorook_ and go to [https://github.com/baofinance](https://github.com/baofinance), the repositories are all there. Select the repository you want to contribute to. I'll call it _repo_ below.
 
 Go to the _repo_ and Fork it using the menu near the top - you now have a forked   branch in your personal area https://github.com/_baorook_/repo.
 
@@ -23,8 +27,8 @@ Your computer could be running Linux, MacOS or Windows. You could be doing devel
 On a terminal prompt:
 
 $ cd _path/to/development/area_ \
-$ git clone http://github.com/_baorook_/_repo baorook_/_repo_ \
-$ cd _baorook_/_repo_
+$ git clone http://github.com/baofinance-or-_baorook_/_repo_ baofinance-or-_baorook_/_repo_ \
+$ cd baofinance-or-_baorook_/_repo_
 
 ## Working on the local repo
 
@@ -38,7 +42,7 @@ For creating new files or changing existing files you can use your favourite edi
 All examples below will use it.
 {% endhint %}
 
-$ code . &
+$ code .
 
 You will also need to run and debug the software for this you need to download all the dependencies.
 
