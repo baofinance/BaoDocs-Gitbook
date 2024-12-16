@@ -35,7 +35,6 @@
   * [Testing](developer-setup/testing.md)
   * [Deploying](developer-setup/deploying.md)
   * [Additional Tools](developer-setup/additional-tools.md)
-  * [Page 1](developer-setup/page-1.md)
 
 ## bTokens
 
