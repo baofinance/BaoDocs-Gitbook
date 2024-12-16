@@ -33,3 +33,18 @@ $ gh auth setup-git
 Your `.gitconfig` file in your home directory has now been updated with the authentication method.
 
 You can now call commands in git that interact with git hub, such as `git clone`, `git pull`, etc.&#x20;
+
+### Running github actions locally
+
+The following allows you to run the same scripts that the github CI runs, but locally.&#x20;
+
+```json
+gh extension install https://github.com/nektos/gh-act
+```
+
+You also need docker to do this
+
+```bash
+$ sudo snap install docker
+$ docker --version
+```
