@@ -34,6 +34,7 @@
   * [Node based build/test](developer-setup/node-based-build-test.md)
   * [Testing](developer-setup/testing.md)
   * [Deploying](developer-setup/deploying.md)
+  * [Additional Tools](developer-setup/additional-tools.md)
 
 ## bTokens
 
