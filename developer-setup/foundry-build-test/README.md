@@ -6,6 +6,8 @@ Foundry is a replacement for hardhat but doesn't use node for testing. Instead i
 
 The downside is that it's the new guy on the block and so, for example, the documentation is sparse, the console output is clunky, there's no `string.concat` (at least until version 0.8.12 of the compiler) and vscode debugging doesn't exist yet.
 
+Installation and usage instructions:
+
 {% embed url="https://book.getfoundry.sh/" %}
 
 {% hint style="warning" %}
