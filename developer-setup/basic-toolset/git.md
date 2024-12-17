@@ -22,7 +22,7 @@ You should now let git know your name and email so that your wonderful code can 
 
 ```bash
 $ git config --global user.name "My name"
-$ git config --global user.name "my@email.address"
+$ git config --global user.email "my@email.address"
 ```
 
 Your `.gitconfig` file in your home directory has now been updated.
