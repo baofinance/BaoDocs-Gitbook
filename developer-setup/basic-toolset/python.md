@@ -1,16 +1,24 @@
 ---
-description: Python is used by some tools
+description: Python is used by some tools.
 ---
 
 # Python
 
-As Python3 is comes with Ubuntu by default so all that remains is to install the python3 package manager, pipx. First check python is installed:
+As Python is comes with Ubuntu by default so all that remains is to check this
 
 ```bash
 $ python3 --version
+$ pip --version
 ```
 
-then install the package manager and fix up the path.
+we need poetry (python's equivalent of node's npm or yarn). It's used in bao-base, for example.
+
+```
+$ sudo apt install python3-poetry
+$ poetry --version
+```
+
+
 
 ```bash
 $ sudo apt install pipx
