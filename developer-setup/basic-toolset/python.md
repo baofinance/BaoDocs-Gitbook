@@ -11,20 +11,34 @@ $ python3 --version
 $ pip --version
 ```
 
-we need poetry (python's equivalent of node's npm or yarn). It's used in bao-base, for example.
-
-```
-$ sudo apt install python3-poetry
-$ poetry --version
-```
-
-
+in case we need to install different versions of python (e.g. slither doesn't work with python3.12 which is the version installed with ubuntu 24.04 LTS.
 
 ```bash
-$ sudo apt install pipx
-$ pipx --version
-$ pipx ensurepath
-$ . ~/.bashrc
+sudo add-apt-repository ppa:deadsnakes/ppa
+sudo apt update
 ```
 
-pipx allows python packages, such as slither, to be installed.
+New versions of python can now be installed
+
+```bash
+sudo apt install python3.11
+```
+
+We also need poetry (python's equivalent of node's npm or yarn). It's used in bao-base, for example. We _don't_ use the command `sudo apt install python3-poetry` because in older versions of ubuntu this installs an earlier version of poetry that doesn't support a feature we rely on (`--directory`)
+
+```bash
+$ curl -sSL https://install.python-poetry.org | python3 -
+```
+
+ensure your `~/.bashrc` has
+
+```bash
+export PATH="$HOME/.local/bin:$PATH"
+```
+
+then run
+
+```bash
+$ . ~/.bashrc
+$ poetry --version
+```

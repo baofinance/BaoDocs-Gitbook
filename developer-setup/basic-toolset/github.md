@@ -45,6 +45,41 @@ gh extension install https://github.com/nektos/gh-act
 You also need docker to do this
 
 ```bash
-$ sudo snap install docker
+$ sudo apt-get update
+$ sudo apt-get install -y apt-transport-https ca-certificates curl software-properties-common
+$ curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+$ sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable"
+$ sudo apt-get update
+$ sudo apt-get install -y docker-ce
+```
+
+now check the docker installation
+
+```bash
 $ docker --version
+$ sudo systemctl status docker
+```
+
+if the docker status isn't right
+
+```bash
+$ sudo systemctl start docker
+$ sudo systemctl enable docker
+$ sudo systemctl status docker
+```
+
+finally enable yourself to do stuff on it
+
+```bash
+$ sudo usermod -aG docker $USER
+$ newgrp docker
+```
+
+Finally, to have docker work like github actions you need a passwordless sudo for certain commands, note that these lines also remove the password for those commands, which isn't ideal:
+
+```bash
+$ echo "$USER ALL=(ALL) NOPASSWD:$(which apt)" | sudo tee -a /etc/sudoers.d/$USER
+$ echo "$USER ALL=(ALL) NOPASSWD:$(which apt-get)" | sudo tee -a /etc/sudoers.d/$USER
+$ echo "$USER ALL=(ALL) NOPASSWD:$(which add-apt-repository)" | sudo tee -a /etc/sudoers.d/$USER
+$ sudo chmod 0440 /etc/sudoers.d/$USER
 ```
