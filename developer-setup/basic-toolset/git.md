@@ -18,7 +18,7 @@ From a linux prompt:
 $ sudo apt install git
 ```
 
-You should now let git know your name and email so that your wonderful code can be properly attributed.
+You should now let git know your name and email so that your wonderful code can be properly attributed to you.
 
 ```bash
 $ git config --global user.name "My name"
