@@ -24,11 +24,13 @@ New versions of python can now be installed
 sudo apt install python3.13 python3.13-dev
 ```
 
-We also need poetry (python's equivalent of node's npm or yarn). It's used in bao-base, for example. We _don't_ use the command `sudo apt install python3-poetry` because in older versions of ubuntu this installs an earlier version of poetry that doesn't support a feature we rely on (`--directory`)
+We also need [poetry ](https://python-poetry.org/docs/)(python's equivalent of node's npm or yarn). It's used in bao-base, for example. We _don't_ use the command `sudo apt install python3-poetry` because in older versions of ubuntu this installs an earlier version of poetry that doesn't support a feature we rely on (e.g.`--directory`)
 
 ```bash
-$ curl -sSL https://install.python-poetry.org | python3 -
+$ curl -sSL https://install.python-poetry.org | python3 - --version 1.8.5
 ```
+
+we _don't_ install the latest version because from version 2.0.0, it is currently broken.
 
 ensure your `~/.bashrc` has
 
