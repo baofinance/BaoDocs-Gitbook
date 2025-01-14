@@ -12,12 +12,6 @@ Ubuntu comes with Firefox installed and that works well but Chrome has additiona
 
 {% embed url="https://www.omgubuntu.co.uk/how-to-install-google-chrome-on-ubuntu" %}
 
-## Google Drive
-
-You want some cloud set-up to share config across all of your computers. Google drive does that well.
-
-{% embed url="https://ucr-research-computing.github.io/Knowledge_Base/how_to_mount_google_drive.html" %}
-
 ## Toggl time tracker
 
 If you're paid by the hour this timer helps count it.
