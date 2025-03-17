@@ -24,6 +24,7 @@
     * [Visual Studio Code](developer-setup/basic-toolset/visual-studio-code.md)
     * [Yarn](developer-setup/basic-toolset/yarn.md)
     * [Python](developer-setup/basic-toolset/python.md)
+  * [MacOs toolset](developer-setup/macos-toolset.md)
   * [Getting started with a repository](developer-setup/getting-started-with-a-repository.md)
   * [Writing Code](developer-setup/writing-code/README.md)
     * [Solidity](developer-setup/writing-code/solidity.md)

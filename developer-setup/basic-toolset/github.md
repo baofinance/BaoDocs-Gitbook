@@ -38,8 +38,19 @@ You can now call commands in git that interact with git hub, such as `git clone`
 
 The following allows you to run the same scripts that the github CI runs, but locally.&#x20;
 
-```json
-gh extension install https://github.com/nektos/gh-act
+<pre class="language-json"><code class="lang-json"><strong># TODO: deprecated
+</strong><strong>gh extension install https://github.com/nektos/gh-act
+</strong></code></pre>
+
+```shellscript
+# On Ubuntu/Debian
+curl https://raw.githubusercontent.com/nektos/act/master/install.sh | sudo bash
+
+```
+
+```shellscript
+# On macOS
+brew install act
 ```
 
 You also need docker to do this
