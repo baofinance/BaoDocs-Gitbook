@@ -1,10 +1,17 @@
 # Git
 
-Git is software that manages a local repository for your code changes
+Git is software that manages a local repository for your code changes.
+
+
 
 {% embed url="https://git-scm.com/docs/user-manual" %}
 Git user manual
 {% endembed %}
+
+## Installation
+
+\{% tabs %\}\
+\{% tab title="Windows" %\}
 
 From a windows prompt:
 
@@ -12,11 +19,25 @@ From a windows prompt:
 > winget install -e 'Git'
 ```
 
+
+
+\{% endtab %\}\
+\{% tab title="Ununtu" %\}\
+
+
 From a linux prompt:
 
 ```bash
 $ sudo apt install git
 ```
+
+\{% endtab %\}\
+\{% tab title="MacOS" %\}
+
+probably use brew
+
+\{% endtab %\}\
+\{% endtabs %\}
 
 You should now let git know your name and email so that your wonderful code can be properly attributed to you.
 
